@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "repo": "actualbudget/actual",
+  "issue": 9230,
+  "generated_at": "2026-10-16T22:32:30.621Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-16T21:58:57.000Z",
+    "commentId": 6225491968,
+    "commentUrl": "https://github.com/actualbudget/actual/issues/9230#issuecomment-6225491968",
+    "plan": "Fix the save-file-dialog handler in packages/desktop-electron/index.ts: slice the buffer view correctly (byteOffset/byteLength), await the write before resolving, add a red-first regression test and a release note.",
+    "etaDays": 2,
+    "queueOk": null,
+    "state": "linked",
+    "activatedAt": "2026-10-16T21:58:57.000Z",
+    "expiresAt": "2026-10-23T21:58:57.000Z",
+    "lastHeartbeatAt": "2026-10-16T21:58:57.000Z",
+    "linkedPr": 9240,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-16T21:58:57.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-16T22:28:54.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-16T21:58:57.000Z",
+      "commentId": 6225491968,
+      "commentUrl": "https://github.com/actualbudget/actual/issues/9230#issuecomment-6225491968",
+      "plan": "Fix the save-file-dialog handler in packages/desktop-electron/index.ts: slice the buffer view correctly (byteOffset/byteLength), await the write before resolving, add a red-first regression test and a release note.",
+      "etaDays": 2,
+      "queueOk": null,
+      "state": "linked",
+      "activatedAt": "2026-10-16T21:58:57.000Z",
+      "expiresAt": "2026-10-23T21:58:57.000Z",
+      "lastHeartbeatAt": "2026-10-16T21:58:57.000Z",
+      "linkedPr": 9240,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-16T21:58:57.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-16T22:28:54.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

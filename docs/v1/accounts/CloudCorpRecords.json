@@ -1,0 +1,13 @@
+{
+  "login": "CloudCorpRecords",
+  "active_claims": [
+    {
+      "repo": "actualbudget/actual",
+      "issue": 9230,
+      "state": "linked"
+    }
+  ],
+  "queued_claims": [],
+  "total_active": 1,
+  "over_cap": false
+}
