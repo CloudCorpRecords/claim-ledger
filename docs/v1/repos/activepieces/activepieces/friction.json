@@ -1,0 +1,24 @@
+{
+  "repo": "activepieces/activepieces",
+  "url": "https://github.com/activepieces/activepieces",
+  "score": 60,
+  "reasons": [
+    "unsolicited PRs paused (-40)"
+  ],
+  "gates": [
+    {
+      "kind": "unsolicited_prs_paused",
+      "detected": true,
+      "evidence": "r friends/colleagues ## Pull requests **We've temporarily paused unsolicited pull requests from outside the core team.** PRs from contributo..."
+    }
+  ],
+  "merge_velocity": {
+    "externalShare": 5,
+    "medianMergeDays": 0.6,
+    "mergedPrs": 22
+  },
+  "starter_issues": 0,
+  "field_note": "Paused unsolicited outside PRs; external PRs are auto-closed (verified 2026-10-15)",
+  "checked_at": "2026-10-16T08:35:19+00:00",
+  "source": "friction-index"
+}

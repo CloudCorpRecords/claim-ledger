@@ -1,0 +1,27 @@
+{
+  "repo": "modelcontextprotocol/typescript-sdk",
+  "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+  "score": 65,
+  "reasons": [
+    "HARD GATE: assignment_required",
+    "assignment required before PR (-25)",
+    "discussion first (-10)"
+  ],
+  "gates": [
+    {
+      "kind": "assignment_required",
+      "detected": true,
+      "evidence": "hand-verified 2026-10-13: SDKs expect a linked assigned or 'help wanted' issue, or an assignment comment"
+    },
+    {
+      "kind": "discussion_first",
+      "detected": true,
+      "evidence": "ript SDK. ## Issues ### Discuss Before You Code **Please open an issue before starting work on new features or significant changes.** This g..."
+    }
+  ],
+  "merge_velocity": null,
+  "starter_issues": null,
+  "field_note": null,
+  "checked_at": "2026-10-15T21:26:18.663Z",
+  "source": "friction-index"
+}

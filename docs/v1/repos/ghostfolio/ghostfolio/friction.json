@@ -1,0 +1,18 @@
+{
+  "repo": "ghostfolio/ghostfolio",
+  "url": "https://github.com/ghostfolio/ghostfolio",
+  "score": 100,
+  "reasons": [
+    "1 open good-first-issues (+0.5)"
+  ],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 7,
+    "medianMergeDays": 0.5,
+    "mergedPrs": 29
+  },
+  "starter_issues": 1,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:34:46+00:00",
+  "source": "friction-index"
+}

@@ -1,0 +1,16 @@
+{
+  "repo": "mastra-ai/mastra",
+  "url": "https://github.com/mastra-ai/mastra",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 70,
+    "medianMergeDays": 0.1,
+    "mergedPrs": 27
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:35:48+00:00",
+  "source": "friction-index"
+}

@@ -1,0 +1,18 @@
+{
+  "repo": "langchain-ai/langchain",
+  "url": "https://github.com/langchain-ai/langchain",
+  "score": 100,
+  "reasons": [
+    "2 open good-first-issues (+1.0)"
+  ],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 67,
+    "medianMergeDays": 0.1,
+    "mergedPrs": 15
+  },
+  "starter_issues": 2,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:36:36+00:00",
+  "source": "friction-index"
+}

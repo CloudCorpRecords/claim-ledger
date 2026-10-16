@@ -1,0 +1,16 @@
+{
+  "repo": "denoland/deno",
+  "url": "https://github.com/denoland/deno",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 59,
+    "medianMergeDays": 1,
+    "mergedPrs": 22
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:36:31+00:00",
+  "source": "friction-index"
+}

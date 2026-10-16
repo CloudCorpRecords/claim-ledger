@@ -1,0 +1,16 @@
+{
+  "repo": "PrefectHQ/fastmcp",
+  "url": "https://github.com/PrefectHQ/fastmcp",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 88,
+    "medianMergeDays": 3.1,
+    "mergedPrs": 25
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:34:32+00:00",
+  "source": "friction-index"
+}

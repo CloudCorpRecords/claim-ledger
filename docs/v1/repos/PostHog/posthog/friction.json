@@ -1,0 +1,16 @@
+{
+  "repo": "PostHog/posthog",
+  "url": "https://github.com/PostHog/posthog",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 70,
+    "medianMergeDays": 0.6,
+    "mergedPrs": 10
+  },
+  "starter_issues": 0,
+  "field_note": "Hot issues get picked up by the company's own bot within hours",
+  "checked_at": "2026-10-16T08:35:34+00:00",
+  "source": "friction-index"
+}

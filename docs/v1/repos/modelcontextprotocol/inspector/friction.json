@@ -1,0 +1,24 @@
+{
+  "repo": "modelcontextprotocol/inspector",
+  "url": "https://github.com/modelcontextprotocol/inspector",
+  "score": 50,
+  "reasons": [
+    "PR creation restricted to collaborators (-50)"
+  ],
+  "gates": [
+    {
+      "kind": "collaborators_only",
+      "detected": true,
+      "evidence": "orm we can act on quickly and consistently. ## TL;DR **We accept issues, not pull requests.** Design and implementation are done by the main..."
+    }
+  ],
+  "merge_velocity": {
+    "externalShare": 0,
+    "medianMergeDays": 0,
+    "mergedPrs": 30
+  },
+  "starter_issues": 0,
+  "field_note": "Maintainer-only PRs; contributions land as detailed issue comments",
+  "checked_at": "2026-10-16T08:35:22+00:00",
+  "source": "friction-index"
+}

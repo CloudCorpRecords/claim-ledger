@@ -1,0 +1,25 @@
+{
+  "repo": "supabase/supabase",
+  "url": "https://github.com/supabase/supabase",
+  "score": 91,
+  "reasons": [
+    "discussion first (-10)",
+    "1 open good-first-issues (+0.5)"
+  ],
+  "gates": [
+    {
+      "kind": "discussion_first",
+      "detected": true,
+      "evidence": "u’re submitting a new feature, make sure you have opened a [Discussion](https://github.com/orgs/supabase/discussions/new/choose) to discuss ..."
+    }
+  ],
+  "merge_velocity": {
+    "externalShare": 82,
+    "medianMergeDays": 0.7,
+    "mergedPrs": 28
+  },
+  "starter_issues": 1,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:36:03+00:00",
+  "source": "friction-index"
+}

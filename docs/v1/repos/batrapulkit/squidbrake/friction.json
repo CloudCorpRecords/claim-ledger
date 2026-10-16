@@ -1,0 +1,20 @@
+{
+  "repo": "batrapulkit/squidbrake",
+  "url": "https://github.com/batrapulkit/squidbrake",
+  "score": 95,
+  "reasons": [
+    "comment first before starting (-5)"
+  ],
+  "gates": [
+    {
+      "kind": "claim_first",
+      "detected": true,
+      "evidence": "hand-verified 2026-10-14: maintainer asks contributors to comment to claim before starting"
+    }
+  ],
+  "merge_velocity": null,
+  "starter_issues": null,
+  "field_note": null,
+  "checked_at": "2026-10-15T21:26:18.663Z",
+  "source": "friction-index"
+}

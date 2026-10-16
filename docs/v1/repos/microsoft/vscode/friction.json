@@ -1,0 +1,18 @@
+{
+  "repo": "microsoft/vscode",
+  "url": "https://github.com/microsoft/vscode",
+  "score": 100,
+  "reasons": [
+    "38 open good-first-issues (+10.0)"
+  ],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 15,
+    "medianMergeDays": 0.1,
+    "mergedPrs": 26
+  },
+  "starter_issues": 38,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:36:40+00:00",
+  "source": "friction-index"
+}

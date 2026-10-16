@@ -1,0 +1,16 @@
+{
+  "repo": "ollama/ollama",
+  "url": "https://github.com/ollama/ollama",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 54,
+    "medianMergeDays": 0.8,
+    "mergedPrs": 24
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:36:07+00:00",
+  "source": "friction-index"
+}

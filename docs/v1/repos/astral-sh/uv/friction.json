@@ -1,0 +1,18 @@
+{
+  "repo": "astral-sh/uv",
+  "url": "https://github.com/astral-sh/uv",
+  "score": 100,
+  "reasons": [
+    "1 open good-first-issues (+0.5)"
+  ],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 60,
+    "medianMergeDays": 0,
+    "mergedPrs": 25
+  },
+  "starter_issues": 1,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:36:27+00:00",
+  "source": "friction-index"
+}

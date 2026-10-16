@@ -1,0 +1,16 @@
+{
+  "repo": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 0,
+    "medianMergeDays": 0.2,
+    "mergedPrs": 27
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:34:27+00:00",
+  "source": "friction-index"
+}

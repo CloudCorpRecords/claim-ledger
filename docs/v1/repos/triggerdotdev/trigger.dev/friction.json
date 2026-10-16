@@ -1,0 +1,21 @@
+{
+  "repo": "triggerdotdev/trigger.dev",
+  "url": "https://github.com/triggerdotdev/trigger.dev",
+  "score": 65,
+  "reasons": [
+    "HARD GATE: vouch_required",
+    "vouch required before PR (-35)"
+  ],
+  "gates": [
+    {
+      "kind": "vouch_required",
+      "detected": true,
+      "evidence": "hand-verified 2026-10-13: unvouched-author PRs auto-closed; vouch-request issue required first"
+    }
+  ],
+  "merge_velocity": null,
+  "starter_issues": null,
+  "field_note": null,
+  "checked_at": "2026-10-15T21:26:18.663Z",
+  "source": "friction-index"
+}

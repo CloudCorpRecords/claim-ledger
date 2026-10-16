@@ -1,0 +1,24 @@
+{
+  "repo": "e2b-dev/E2B",
+  "url": "https://github.com/e2b-dev/E2B",
+  "score": 90,
+  "reasons": [
+    "discussion first (-10)"
+  ],
+  "gates": [
+    {
+      "kind": "discussion_first",
+      "detected": true,
+      "evidence": "ontributing If you want to contribute, open a PR, issue, or start a discussion on our [Discord](https://discord.gg/dSBY3ms2Qr)."
+    }
+  ],
+  "merge_velocity": {
+    "externalShare": 100,
+    "medianMergeDays": 0.1,
+    "mergedPrs": 18
+  },
+  "starter_issues": 0,
+  "field_note": "PR-speed culture: fixes land without claims, check the timeline first",
+  "checked_at": "2026-10-16T08:34:48+00:00",
+  "source": "friction-index"
+}

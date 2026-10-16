@@ -1,0 +1,18 @@
+{
+  "repo": "actualbudget/actual",
+  "url": "https://github.com/actualbudget/actual",
+  "score": 100,
+  "reasons": [
+    "3 open good-first-issues (+1.5)"
+  ],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 65,
+    "medianMergeDays": 1.5,
+    "mergedPrs": 23
+  },
+  "starter_issues": 3,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:34:40+00:00",
+  "source": "friction-index"
+}

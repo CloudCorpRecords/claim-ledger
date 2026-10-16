@@ -1,0 +1,21 @@
+{
+  "repo": "modelcontextprotocol/python-sdk",
+  "url": "https://github.com/modelcontextprotocol/python-sdk",
+  "score": 75,
+  "reasons": [
+    "HARD GATE: assignment_required",
+    "assignment required before PR (-25)"
+  ],
+  "gates": [
+    {
+      "kind": "assignment_required",
+      "detected": true,
+      "evidence": "hand-verified 2026-10-13: same assignment culture as the other MCP SDKs"
+    }
+  ],
+  "merge_velocity": null,
+  "starter_issues": null,
+  "field_note": null,
+  "checked_at": "2026-10-15T21:26:18.663Z",
+  "source": "friction-index"
+}

@@ -1,0 +1,30 @@
+{
+  "repo": "vercel/next.js",
+  "url": "https://github.com/vercel/next.js",
+  "score": 85,
+  "reasons": [
+    "DCO sign-off required (-5)",
+    "discussion first (-10)"
+  ],
+  "gates": [
+    {
+      "kind": "dco_required",
+      "detected": true,
+      "evidence": "Hub account and that your commits appear as `Verified`. A `Signed-off-by` line in the commit message is not enough to satisfy this requireme..."
+    },
+    {
+      "kind": "discussion_first",
+      "detected": true,
+      "evidence": "/vercel/next.js/discussions/new?category=ideas) and get the proposal accepted first. ## Trivial changes Every pull request has to be reviewe..."
+    }
+  ],
+  "merge_velocity": {
+    "externalShare": 58,
+    "medianMergeDays": 3.2,
+    "mergedPrs": 19
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:36:12+00:00",
+  "source": "friction-index"
+}

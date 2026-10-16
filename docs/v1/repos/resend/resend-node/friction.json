@@ -1,0 +1,16 @@
+{
+  "repo": "resend/resend-node",
+  "url": "https://github.com/resend/resend-node",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 36,
+    "medianMergeDays": 0.3,
+    "mergedPrs": 22
+  },
+  "starter_issues": 0,
+  "field_note": "Merges outside contributors the same day (observed 2026-10-15)",
+  "checked_at": "2026-10-16T08:34:58+00:00",
+  "source": "friction-index"
+}

@@ -1,0 +1,16 @@
+{
+  "repo": "vitejs/vite",
+  "url": "https://github.com/vitejs/vite",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 47,
+    "medianMergeDays": 1.7,
+    "mergedPrs": 19
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:36:17+00:00",
+  "source": "friction-index"
+}

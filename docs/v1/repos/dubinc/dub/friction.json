@@ -1,0 +1,16 @@
+{
+  "repo": "dubinc/dub",
+  "url": "https://github.com/dubinc/dub",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 0,
+    "medianMergeDays": 0.3,
+    "mergedPrs": 18
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:35:11+00:00",
+  "source": "friction-index"
+}

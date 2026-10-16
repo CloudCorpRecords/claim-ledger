@@ -1,0 +1,16 @@
+{
+  "repo": "formbricks/formbricks",
+  "url": "https://github.com/formbricks/formbricks",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 37,
+    "medianMergeDays": 0.1,
+    "mergedPrs": 30
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:35:15+00:00",
+  "source": "friction-index"
+}

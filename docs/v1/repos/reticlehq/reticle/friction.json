@@ -1,0 +1,25 @@
+{
+  "repo": "reticlehq/reticle",
+  "url": "https://github.com/reticlehq/reticle",
+  "score": 100,
+  "reasons": [
+    "DCO sign-off required (-5)",
+    "9 open good-first-issues (+4.5)"
+  ],
+  "gates": [
+    {
+      "kind": "dco_required",
+      "detected": true,
+      "evidence": "/README.md)). ## What must be green to merge `gate` plus `dco`. Bench and the full Windows install matrix still run only after merge, quaran..."
+    }
+  ],
+  "merge_velocity": {
+    "externalShare": 100,
+    "medianMergeDays": 1.6,
+    "mergedPrs": 25
+  },
+  "starter_issues": 9,
+  "field_note": "Claim-first, DCO sign-off, changeset file per PR",
+  "checked_at": "2026-10-16T08:34:21+00:00",
+  "source": "friction-index"
+}

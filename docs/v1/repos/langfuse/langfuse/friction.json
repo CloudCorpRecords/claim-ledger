@@ -1,0 +1,24 @@
+{
+  "repo": "langfuse/langfuse",
+  "url": "https://github.com/langfuse/langfuse",
+  "score": 95,
+  "reasons": [
+    "CLA signature required (-5)"
+  ],
+  "gates": [
+    {
+      "kind": "cla_required",
+      "detected": true,
+      "evidence": "ibuting to the Langfuse codebase, you need to agree to the [Contributor License Agreement](https://cla-assistant.io/langfuse/langfuse). You ..."
+    }
+  ],
+  "merge_velocity": {
+    "externalShare": 83,
+    "medianMergeDays": 0.3,
+    "mergedPrs": 23
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:35:01+00:00",
+  "source": "friction-index"
+}

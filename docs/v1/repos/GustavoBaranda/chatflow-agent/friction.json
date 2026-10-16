@@ -1,0 +1,20 @@
+{
+  "repo": "GustavoBaranda/chatflow-agent",
+  "url": "https://github.com/GustavoBaranda/chatflow-agent",
+  "score": 90,
+  "reasons": [
+    "discussion first (-10)"
+  ],
+  "gates": [
+    {
+      "kind": "discussion_first",
+      "detected": true,
+      "evidence": "problem, the proposed solution, and realistic use cases. 3. Discuss the architectural fit before submitting a large pull request to avoid re..."
+    }
+  ],
+  "merge_velocity": null,
+  "starter_issues": null,
+  "field_note": null,
+  "checked_at": "2026-10-15T21:26:18.663Z",
+  "source": "friction-index"
+}

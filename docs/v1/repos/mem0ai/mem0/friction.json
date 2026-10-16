@@ -1,0 +1,36 @@
+{
+  "repo": "mem0ai/mem0",
+  "url": "https://github.com/mem0ai/mem0",
+  "score": 50,
+  "reasons": [
+    "vouch required before PR (-35)",
+    "CLA signature required (-5)",
+    "discussion first (-10)"
+  ],
+  "gates": [
+    {
+      "kind": "vouch_required",
+      "detected": true,
+      "evidence": "you are not yet in this repo's contributor list ([`.github/VOUCHED.td`](./.github/VOUCHED.td)) you get one comment saying so. **Nothing is b..."
+    },
+    {
+      "kind": "cla_required",
+      "detected": true,
+      "evidence": "wer a direct question about your own diff. ### 3. Sign the Contributor License Agreement (CLA) **We cannot accept or merge any pull request ..."
+    },
+    {
+      "kind": "discussion_first",
+      "detected": true,
+      "evidence": "## Before You Start ### 1. Open an Issue First **Always open an issue before opening a pull request.** This lets us discuss the change, avoi..."
+    }
+  ],
+  "merge_velocity": {
+    "externalShare": 100,
+    "medianMergeDays": 2.1,
+    "mergedPrs": 2
+  },
+  "starter_issues": 0,
+  "field_note": "Vouch-gated for new contributors",
+  "checked_at": "2026-10-16T08:35:31+00:00",
+  "source": "friction-index"
+}

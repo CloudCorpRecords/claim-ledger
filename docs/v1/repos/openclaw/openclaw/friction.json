@@ -1,0 +1,16 @@
+{
+  "repo": "openclaw/openclaw",
+  "url": "https://github.com/openclaw/openclaw",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 81,
+    "medianMergeDays": 0.1,
+    "mergedPrs": 26
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:35:42+00:00",
+  "source": "friction-index"
+}

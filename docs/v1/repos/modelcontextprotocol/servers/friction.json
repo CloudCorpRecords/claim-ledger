@@ -1,0 +1,24 @@
+{
+  "repo": "modelcontextprotocol/servers",
+  "url": "https://github.com/modelcontextprotocol/servers",
+  "score": 50,
+  "reasons": [
+    "PR creation restricted to collaborators (-50)"
+  ],
+  "gates": [
+    {
+      "kind": "collaborators_only",
+      "detected": true,
+      "evidence": "ainers can act on quickly and consistently. ## TL;DR **We accept issues, not pull requests.** Design and implementation are done by the repo..."
+    }
+  ],
+  "merge_velocity": {
+    "externalShare": 0,
+    "medianMergeDays": 0,
+    "mergedPrs": 15
+  },
+  "starter_issues": 0,
+  "field_note": "Maintainer-only PRs; contributions land as detailed issue comments",
+  "checked_at": "2026-10-16T08:35:26+00:00",
+  "source": "friction-index"
+}

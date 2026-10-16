@@ -1,0 +1,31 @@
+{
+  "repo": "shadcn-labs/pdfcn",
+  "url": "https://github.com/shadcn-labs/pdfcn",
+  "score": 96,
+  "reasons": [
+    "comment first before starting (-5)",
+    "DCO sign-off required (-5)",
+    "11 open good-first-issues (+5.5)"
+  ],
+  "gates": [
+    {
+      "kind": "claim_first",
+      "detected": true,
+      "evidence": "test that shows the need. - Do not claim an issue silently. Comment before starting work, and check the thread first in case someone else is..."
+    },
+    {
+      "kind": "dco_required",
+      "detected": true,
+      "evidence": "problem and solution. ## Developer Certificate of Origin (DCO) All contributions are made under the [Developer Certificate of Origin](https:..."
+    }
+  ],
+  "merge_velocity": {
+    "externalShare": 100,
+    "medianMergeDays": 3.9,
+    "mergedPrs": 21
+  },
+  "starter_issues": 11,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:35:55+00:00",
+  "source": "friction-index"
+}

@@ -1,0 +1,18 @@
+{
+  "repo": "crewAIInc/crewAI",
+  "url": "https://github.com/crewAIInc/crewAI",
+  "score": 100,
+  "reasons": [
+    "5 open good-first-issues (+2.5)"
+  ],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 4,
+    "medianMergeDays": 0.6,
+    "mergedPrs": 24
+  },
+  "starter_issues": 5,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:35:52+00:00",
+  "source": "friction-index"
+}

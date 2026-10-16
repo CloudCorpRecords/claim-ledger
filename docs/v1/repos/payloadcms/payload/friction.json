@@ -1,0 +1,16 @@
+{
+  "repo": "payloadcms/payload",
+  "url": "https://github.com/payloadcms/payload",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 28,
+    "medianMergeDays": 0.7,
+    "mergedPrs": 29
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:35:03+00:00",
+  "source": "friction-index"
+}

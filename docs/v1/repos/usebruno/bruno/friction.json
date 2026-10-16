@@ -1,0 +1,18 @@
+{
+  "repo": "usebruno/bruno",
+  "url": "https://github.com/usebruno/bruno",
+  "score": 100,
+  "reasons": [
+    "1 open good-first-issues (+0.5)"
+  ],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 14,
+    "medianMergeDays": 4,
+    "mergedPrs": 21
+  },
+  "starter_issues": 1,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:35:06+00:00",
+  "source": "friction-index"
+}

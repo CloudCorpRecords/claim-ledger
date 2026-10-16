@@ -1,0 +1,16 @@
+{
+  "repo": "facebook/react",
+  "url": "https://github.com/facebook/react",
+  "score": 100,
+  "reasons": [],
+  "gates": [],
+  "merge_velocity": {
+    "externalShare": 31,
+    "medianMergeDays": 0,
+    "mergedPrs": 16
+  },
+  "starter_issues": null,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:36:46+00:00",
+  "source": "friction-index"
+}
