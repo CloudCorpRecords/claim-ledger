@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T22:32:30.621Z",
+  "generated_at": "2026-10-16T23:43:53.735Z",
   "indexer": "claim-ledger/0.1.0",
   "engine": "@reneturcios/greenlight@0.4.0",
   "freshness_target": "15 minutes for opted-in repos (Phase 2); current schedule: every 15 minutes",
@@ -12,7 +12,7 @@
   },
   "totals": {
     "repos_scanned": 48,
-    "issues_scanned": 2259,
+    "issues_scanned": 2251,
     "active_claims": 1,
     "queued_claims": 0,
     "issues_with_protocol_activity": 1,
@@ -26,7 +26,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 160,
+      "issues_scanned": 159,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
@@ -50,11 +50,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 98,
+      "issues_scanned": 97,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 33
+      "api_calls": 32
     },
     {
       "owner": "n8n-io",
@@ -90,7 +90,7 @@
       "issues_with_protocol": 1,
       "active_claims": 1,
       "queued_claims": 0,
-      "api_calls": 59
+      "api_calls": 58
     },
     {
       "owner": "mealie-recipes",
@@ -186,7 +186,7 @@
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 30
+      "api_calls": 31
     },
     {
       "owner": "usebruno",
@@ -302,11 +302,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 31,
+      "issues_scanned": 24,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 34
+      "api_calls": 26
     },
     {
       "owner": "mastra-ai",
@@ -314,11 +314,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 83,
+      "issues_scanned": 82,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 86
+      "api_calls": 85
     },
     {
       "owner": "crewAIInc",
@@ -374,7 +374,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 46,
+      "issues_scanned": 45,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
@@ -446,11 +446,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 115,
+      "issues_scanned": 117,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 71
+      "api_calls": 73
     },
     {
       "owner": "facebook",
@@ -506,7 +506,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 133,
+      "issues_scanned": 134,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
@@ -598,5 +598,5 @@
     }
   ],
   "errors": [],
-  "api_calls": 1774
+  "api_calls": 1766
 }
