@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@reneturcios/greenlight": "0.4.0"
+  },
+  "description": "Indexer and static API for the Greenlight Claim Protocol Ledger",
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "name": "claim-ledger",
+  "scripts": {
+    "index": "node indexer/index.mjs",
+    "index:dry": "node indexer/index.mjs --dry --out /tmp/claim-ledger-dry",
+    "test": "node --test test/*.test.mjs"
+  },
+  "type": "module",
+  "version": "0.1.0"
+}

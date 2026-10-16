@@ -1,0 +1,242 @@
+[
+ {
+  "owner": "reticlehq",
+  "repo": "reticle",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "firecrawl",
+  "repo": "firecrawl",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "PrefectHQ",
+  "repo": "fastmcp",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "n8n-io",
+  "repo": "n8n",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "marimo-team",
+  "repo": "marimo",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "actualbudget",
+  "repo": "actual",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "mealie-recipes",
+  "repo": "mealie",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "ghostfolio",
+  "repo": "ghostfolio",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "e2b-dev",
+  "repo": "E2B",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "ComposioHQ",
+  "repo": "composio",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "convex",
+  "repo": "convex-js",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "resend",
+  "repo": "resend-node",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "langfuse",
+  "repo": "langfuse",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "payloadcms",
+  "repo": "payload",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "usebruno",
+  "repo": "bruno",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "dubinc",
+  "repo": "dub",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "formbricks",
+  "repo": "formbricks",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "activepieces",
+  "repo": "activepieces",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "modelcontextprotocol",
+  "repo": "inspector",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "modelcontextprotocol",
+  "repo": "servers",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "mem0ai",
+  "repo": "mem0",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "PostHog",
+  "repo": "posthog",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "tscircuit",
+  "repo": "tscircuit",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "mastra-ai",
+  "repo": "mastra",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "crewAIInc",
+  "repo": "crewAI",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "shadcn-labs",
+  "repo": "pdfcn",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "supabase",
+  "repo": "supabase",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "ollama",
+  "repo": "ollama",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "vercel",
+  "repo": "next.js",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "vitejs",
+  "repo": "vite",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "tailwindlabs",
+  "repo": "tailwindcss",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "astral-sh",
+  "repo": "uv",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "denoland",
+  "repo": "deno",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "langchain-ai",
+  "repo": "langchain",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "microsoft",
+  "repo": "vscode",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "facebook",
+  "repo": "react",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "langchain-ai",
+  "repo": "deepagents",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "batrapulkit",
+  "repo": "squidbrake",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "GustavoBaranda",
+  "repo": "chatflow-agent",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "modelcontextprotocol",
+  "repo": "python-sdk",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "triggerdotdev",
+  "repo": "trigger.dev",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "modelcontextprotocol",
+  "repo": "typescript-sdk",
+  "note": "friction-index seed"
+ },
+ {
+  "owner": "actualbudget",
+  "repo": "actual-gh-bot",
+  "note": "campaign repo: label-bot satellite repo (our PR #49 lives here)"
+ },
+ {
+  "owner": "CloudCorpRecords",
+  "repo": "greenlight",
+  "note": "own repo: protocol dogfood, opts in via .greenlight/claims.json"
+ },
+ {
+  "owner": "CloudCorpRecords",
+  "repo": "prwatch",
+  "note": "own repo: contribution toolkit"
+ },
+ {
+  "owner": "CloudCorpRecords",
+  "repo": "claimcheck",
+  "note": "own repo: contribution toolkit"
+ },
+ {
+  "owner": "CloudCorpRecords",
+  "repo": "gatefile",
+  "note": "own repo: contribution toolkit"
+ }
+]
