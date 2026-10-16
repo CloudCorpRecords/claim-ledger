@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-10-16T21:18:05.324Z",
+  "indexer": "claim-ledger/0.1.0",
+  "engine": "@reneturcios/greenlight@0.4.0",
+  "freshness_target": "15 minutes for opted-in repos (Phase 2); current schedule: every 15 minutes",
+  "caps": {
+    "issue_pages": 2,
+    "issue_lookback_days": 30,
+    "comments_pages_per_issue": 1,
+    "pull_fetch_cap_per_issue": 10,
+    "note": "Comments are fetched for every issue with comments > 0 (the comment body is the claim). Reactions are fetched only for comments carrying the claim marker. Timeline is fetched only for issues with protocol activity."
+  },
+  "totals": {
+    "repos_scanned": 0,
+    "issues_scanned": 0,
+    "active_claims": 0,
+    "queued_claims": 0,
+    "issues_with_protocol_activity": 0,
+    "over_cap_accounts": [],
+    "accounts_indexed": 0
+  },
+  "repos": [],
+  "errors": [
+    {
+      "repo": "reticlehq/reticle",
+      "error": "rate-limited on https://api.github.com/repos/reticlehq/reticle/issues/1372/comments?per_page=100"
+    }
+  ],
+  "api_calls": 57,
+  "_smoke_note": "Smoke artifact: three separate unauthenticated --only runs (composio: 37 issues, greenlight: 0 issues, reticle: rate-limited after 57 calls). This index.json is the reticle run's output; issues_scanned patched from 160 to 0 after a reporting bug fix (issues from a failed repo must not count). The first scheduled Action run (with GITHUB_TOKEN, 5000 calls/hr) rebuilds the full 48-repo index coherently."
+}

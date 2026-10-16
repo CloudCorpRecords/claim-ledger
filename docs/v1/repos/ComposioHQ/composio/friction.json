@@ -1,0 +1,24 @@
+{
+  "repo": "ComposioHQ/composio",
+  "url": "https://github.com/ComposioHQ/composio",
+  "score": 90,
+  "reasons": [
+    "discussion first (-10)"
+  ],
+  "gates": [
+    {
+      "kind": "discussion_first",
+      "detected": true,
+      "evidence": "v). ## Creating New Providers For external contributions, open an issue before you build a new provider. Get maintainer agreement before imp..."
+    }
+  ],
+  "merge_velocity": {
+    "externalShare": 10,
+    "medianMergeDays": 0,
+    "mergedPrs": 20
+  },
+  "starter_issues": 0,
+  "field_note": null,
+  "checked_at": "2026-10-16T08:34:51+00:00",
+  "source": "friction-index"
+}

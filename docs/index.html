@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Claim Ledger — live claims under the Greenlight Claim Protocol</title>
+<style>
+  :root { color-scheme: dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #0d1117; color: #e6edf3; margin: 0; padding: 24px; }
+  .wrap { max-width: 1100px; margin: 0 auto; }
+  h1 { font-size: 26px; margin: 0 0 6px; }
+  .sub { color: #8b949e; margin: 0 0 20px; line-height: 1.5; }
+  .sub a { color: #58a6ff; }
+  .strip { display: flex; gap: 12px; flex-wrap: wrap; margin: 0 0 24px; }
+  .stat { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 12px 18px; min-width: 130px; }
+  .stat .n { font-size: 26px; font-weight: 700; }
+  .stat .l { font-size: 12px; color: #8b949e; }
+  h2 { font-size: 18px; margin: 28px 0 10px; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #21262d; }
+  th { color: #8b949e; font-weight: 600; font-size: 12px; text-transform: uppercase; }
+  a { color: #58a6ff; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .badge { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 10px; border: 1px solid #30363d; color: #8b949e; }
+  .badge.yes { color: #3fb950; border-color: #3fb950; }
+  .badge.cap { color: #d29922; border-color: #d29922; }
+  .empty { color: #8b949e; padding: 24px; background: #161b22; border: 1px solid #30363d; border-radius: 8px; line-height: 1.6; }
+  .foot { color: #8b949e; font-size: 12px; margin-top: 32px; line-height: 1.6; }
+  #load-error { display: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Claim Ledger</h1>
+  <p class="sub">
+    Live claims under the <a href="https://github.com/CloudCorpRecords/greenlight/blob/main/protocol/SPEC.md">Greenlight Claim Protocol</a>:
+    timestamped, expiring leases on open-source issues, with a public queue.
+    GitHub comments are the source of truth; this is an index, rebuilt every 15 minutes.
+    Cold start is the honest state: the protocol shipped today, so expect this board to be empty until the first protocol claims land.
+  </p>
+
+  <div id="load-error" class="empty">
+    Could not load <code>v1/index.json</code>. The indexer has not run yet, or this copy is stale.
+    Anyone can rebuild the full Ledger from public GitHub comments — see the
+    <a href="https://github.com/CloudCorpRecords/greenlight/blob/main/protocol/SPEC.md">spec</a>.
+  </div>
+
+  <div id="content" style="display:none">
+    <div class="strip" id="strip"></div>
+
+    <h2>Active claims</h2>
+    <div id="claims-empty" class="empty" style="display:none">
+      No active protocol claims right now. The first claims our own campaign posts use the
+      protocol marker, so this table fills as real work starts.
+    </div>
+    <table id="claims-table" style="display:none">
+      <thead><tr><th>Repo</th><th>Issue</th><th>Claimant</th><th>Claimed</th><th>Expires</th><th>Queue</th></tr></thead>
+      <tbody id="claims-body"></tbody>
+    </table>
+
+    <h2>Repo claim health</h2>
+    <table id="repos-table">
+      <thead><tr><th>Repo</th><th>Honoring</th><th>Issues scanned</th><th>Protocol issues</th><th>Active</th><th>Queued</th></tr></thead>
+      <tbody id="repos-body"></tbody>
+    </table>
+
+    <p class="foot" id="foot"></p>
+  </div>
+</div>
+<script>
+(async function () {
+  const $ = (id) => document.getElementById(id);
+  let index;
+  try {
+    const res = await fetch("v1/index.json");
+    if (!res.ok) throw new Error(res.status);
+    index = await res.json();
+  } catch (e) {
+    $("load-error").style.display = "block";
+    return;
+  }
+  $("content").style.display = "block";
+  const t = index.totals;
+  $("strip").innerHTML = [
+    [t.active_claims, "active claims"],
+    [t.queued_claims, "queued"],
+    [t.issues_with_protocol_activity, "issues with protocol activity"],
+    [t.over_cap_accounts.length, "over-cap accounts"],
+    [t.repos_scanned, "repos indexed"],
+  ].map(([n, l]) => `<div class="stat"><div class="n">${n}</div><div class="l">${l}</div></div>`).join("");
+
+  // Per-repo health table (from the index alone, no extra fetches).
+  const reposBody = $("repos-body");
+  for (const r of index.repos) {
+    const tr = document.createElement("tr");
+    tr.innerHTML =
+      `<td><a href="https://github.com/${r.owner}/${r.repo}">${r.owner}/${r.repo}</a></td>` +
+      `<td><span class="badge ${r.honored ? "yes" : ""}">${r.honored ? "honoring" : "not adopted"}</span></td>` +
+      `<td>${r.issues_scanned}</td><td>${r.issues_with_protocol}</td>` +
+      `<td>${r.active_claims}</td><td>${r.queued_claims}</td>`;
+    reposBody.appendChild(tr);
+  }
+
+  // Active claims table: fetch each repo's claims summary that has active claims.
+  const rows = [];
+  const withActive = index.repos.filter((r) => r.active_claims > 0);
+  const summaries = await Promise.all(withActive.map(async (r) => {
+    try {
+      const res = await fetch(`v1/repos/${r.owner}/${r.repo}/claims.json`);
+      return res.ok ? await res.json() : null;
+    } catch { return null; }
+  }));
+  for (const s of summaries) {
+    if (!s) continue;
+    for (const c of s.active_claims) rows.push({ repo: s.repo, ...c });
+  }
+  const body = $("claims-body");
+  if (rows.length === 0) {
+    $("claims-empty").style.display = "block";
+  } else {
+    $("claims-table").style.display = "table";
+    for (const c of rows) {
+      const tr = document.createElement("tr");
+      tr.innerHTML =
+        `<td><a href="https://github.com/${c.repo}">${c.repo}</a></td>` +
+        `<td><a href="${c.issue_url}">#${c.issue}</a></td>` +
+        `<td><a href="https://github.com/${c.claimant}">@${c.claimant}</a></td>` +
+        `<td>${c.claimed_at.slice(0, 10)}</td>` +
+        `<td>${c.expires_at.slice(0, 10)}</td>` +
+        `<td>${c.queue.length ? c.queue.map((q) => "@" + q.claimant).join(", ") : "—"}</td>`;
+      body.appendChild(tr);
+    }
+  }
+
+  $("foot").innerHTML =
+    `Generated ${index.generated_at} by ${index.indexer} using ${index.engine}. ` +
+    `${index.api_calls} GitHub API calls this run. ` +
+    `Caps: ${index.caps.issue_pages} issue pages, ${index.caps.issue_lookback_days}-day lookback, ` +
+    `comments fetched for every issue with comments. ` +
+    `${index.errors.length ? "Errors this run: " + index.errors.map((e) => e.repo).join(", ") + "." : "No errors this run."}`;
+})();
+</script>
+</body>
+</html>
