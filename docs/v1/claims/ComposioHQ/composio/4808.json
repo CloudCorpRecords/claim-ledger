@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "repo": "ComposioHQ/composio",
+  "issue": 4808,
+  "generated_at": "2026-10-17T06:10:12.449Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T03:56:58.000Z",
+    "commentId": 6229334664,
+    "commentUrl": "https://github.com/ComposioHQ/composio/issues/4808#issuecomment-6229334664",
+    "plan": "Show id, alias (when set), and display_name (state.val.displayName, trimmed, max 200 chars) in composio connections list; extend connected-account allowlist with display_name only from state",
+    "etaDays": 3,
+    "queueOk": null,
+    "state": "linked",
+    "activatedAt": "2026-10-17T03:56:58.000Z",
+    "expiresAt": "2026-10-24T03:56:58.000Z",
+    "lastHeartbeatAt": "2026-10-17T03:56:58.000Z",
+    "linkedPr": 4946,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T03:56:58.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-17T04:09:45.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T03:56:58.000Z",
+      "commentId": 6229334664,
+      "commentUrl": "https://github.com/ComposioHQ/composio/issues/4808#issuecomment-6229334664",
+      "plan": "Show id, alias (when set), and display_name (state.val.displayName, trimmed, max 200 chars) in composio connections list; extend connected-account allowlist with display_name only from state",
+      "etaDays": 3,
+      "queueOk": null,
+      "state": "linked",
+      "activatedAt": "2026-10-17T03:56:58.000Z",
+      "expiresAt": "2026-10-24T03:56:58.000Z",
+      "lastHeartbeatAt": "2026-10-17T03:56:58.000Z",
+      "linkedPr": 4946,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T03:56:58.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-17T04:09:45.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

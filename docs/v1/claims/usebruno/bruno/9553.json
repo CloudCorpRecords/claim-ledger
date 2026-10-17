@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "repo": "usebruno/bruno",
+  "issue": 9553,
+  "generated_at": "2026-10-17T06:10:12.449Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T04:34:27.000Z",
+    "commentId": 6229685996,
+    "commentUrl": "https://github.com/usebruno/bruno/issues/9553#issuecomment-6229685996",
+    "plan": "Implement inherited URL query params: merge collection level, then folder level, then request level, in the variable resolution code, with regression tests covering override order.",
+    "etaDays": 5,
+    "queueOk": null,
+    "state": "active",
+    "activatedAt": "2026-10-17T04:34:27.000Z",
+    "expiresAt": "2026-10-24T04:34:27.000Z",
+    "lastHeartbeatAt": "2026-10-17T04:34:27.000Z",
+    "linkedPr": null,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T04:34:27.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T04:34:27.000Z",
+      "commentId": 6229685996,
+      "commentUrl": "https://github.com/usebruno/bruno/issues/9553#issuecomment-6229685996",
+      "plan": "Implement inherited URL query params: merge collection level, then folder level, then request level, in the variable resolution code, with regression tests covering override order.",
+      "etaDays": 5,
+      "queueOk": null,
+      "state": "active",
+      "activatedAt": "2026-10-17T04:34:27.000Z",
+      "expiresAt": "2026-10-24T04:34:27.000Z",
+      "lastHeartbeatAt": "2026-10-17T04:34:27.000Z",
+      "linkedPr": null,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T04:34:27.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

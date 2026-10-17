@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "repo": "mealie-recipes/mealie",
+  "issue": 8735,
+  "generated_at": "2026-10-17T06:10:12.449Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T04:34:20.000Z",
+    "commentId": 6229685100,
+    "commentUrl": "https://github.com/mealie-recipes/mealie/issues/8735#issuecomment-6229685100",
+    "plan": "Trim redundant CI work on pull requests: path filters on the PR workflows, DB matrix scoped to DB-touching changes, CodeQL scoped to relevant paths.",
+    "etaDays": 3,
+    "queueOk": null,
+    "state": "linked",
+    "activatedAt": "2026-10-17T04:34:20.000Z",
+    "expiresAt": "2026-10-24T04:34:20.000Z",
+    "lastHeartbeatAt": "2026-10-17T04:34:20.000Z",
+    "linkedPr": 8753,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T04:34:20.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-17T04:41:00.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T04:34:20.000Z",
+      "commentId": 6229685100,
+      "commentUrl": "https://github.com/mealie-recipes/mealie/issues/8735#issuecomment-6229685100",
+      "plan": "Trim redundant CI work on pull requests: path filters on the PR workflows, DB matrix scoped to DB-touching changes, CodeQL scoped to relevant paths.",
+      "etaDays": 3,
+      "queueOk": null,
+      "state": "linked",
+      "activatedAt": "2026-10-17T04:34:20.000Z",
+      "expiresAt": "2026-10-24T04:34:20.000Z",
+      "lastHeartbeatAt": "2026-10-17T04:34:20.000Z",
+      "linkedPr": 8753,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T04:34:20.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-17T04:41:00.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "repo": "mealie-recipes/mealie",
+  "issue": 8628,
+  "generated_at": "2026-10-17T06:10:12.449Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T04:34:24.000Z",
+    "commentId": 6229685569,
+    "commentUrl": "https://github.com/mealie-recipes/mealie/issues/8628#issuecomment-6229685569",
+    "plan": "Reproduce the concurrent-write duplication with a failing test first, then fix the ingredient upsert path (uniqueness constraint or dedupe) with an Alembic migration if the schema changes.",
+    "etaDays": 4,
+    "queueOk": null,
+    "state": "active",
+    "activatedAt": "2026-10-17T04:34:24.000Z",
+    "expiresAt": "2026-10-24T04:34:24.000Z",
+    "lastHeartbeatAt": "2026-10-17T04:34:24.000Z",
+    "linkedPr": null,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T04:34:24.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T04:34:24.000Z",
+      "commentId": 6229685569,
+      "commentUrl": "https://github.com/mealie-recipes/mealie/issues/8628#issuecomment-6229685569",
+      "plan": "Reproduce the concurrent-write duplication with a failing test first, then fix the ingredient upsert path (uniqueness constraint or dedupe) with an Alembic migration if the schema changes.",
+      "etaDays": 4,
+      "queueOk": null,
+      "state": "active",
+      "activatedAt": "2026-10-17T04:34:24.000Z",
+      "expiresAt": "2026-10-24T04:34:24.000Z",
+      "lastHeartbeatAt": "2026-10-17T04:34:24.000Z",
+      "linkedPr": null,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T04:34:24.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

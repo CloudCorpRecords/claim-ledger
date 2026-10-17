@@ -5,9 +5,29 @@
       "repo": "actualbudget/actual",
       "issue": 9230,
       "state": "linked"
+    },
+    {
+      "repo": "mealie-recipes/mealie",
+      "issue": 8628,
+      "state": "active"
+    },
+    {
+      "repo": "mealie-recipes/mealie",
+      "issue": 8735,
+      "state": "linked"
+    },
+    {
+      "repo": "ComposioHQ/composio",
+      "issue": 4808,
+      "state": "linked"
+    },
+    {
+      "repo": "usebruno/bruno",
+      "issue": 9553,
+      "state": "active"
     }
   ],
   "queued_claims": [],
-  "total_active": 1,
+  "total_active": 5,
   "over_cap": false
 }

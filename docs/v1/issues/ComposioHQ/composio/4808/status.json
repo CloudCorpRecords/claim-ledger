@@ -1,0 +1,34 @@
+{
+  "issue": "https://github.com/ComposioHQ/composio/issues/4808",
+  "verdict": "TAKEN",
+  "reason": "Protocol claim linked: @CloudCorpRecords holds this issue until 2026-10-24; open competing PRs: #4946.",
+  "claim": {
+    "state": "linked",
+    "claimant": "CloudCorpRecords",
+    "claimed_at": "2026-10-17T03:56:58.000Z",
+    "expires_at": "2026-10-24T03:56:58.000Z",
+    "queue": []
+  },
+  "protocol_note": "A protocol claim is linked to a pull request; review is in the maintainer's hands.",
+  "competing_prs": [
+    {
+      "number": 4809,
+      "author": "immakermatty",
+      "state": "closed"
+    },
+    {
+      "number": 4946,
+      "author": "CloudCorpRecords",
+      "state": "open"
+    }
+  ],
+  "gates": [],
+  "repo_protocol": {
+    "honored": false,
+    "lease_days": 7
+  },
+  "checked_at": "2026-10-17T06:10:12.449Z",
+  "stale_after_seconds": 21600,
+  "issue_title": "CLI: show account id, alias, and display name in composio connections list",
+  "_ledger_note": "Ledger Phase 2: competing_prs come from the issue timeline only and gates are not indexed (empty). For the live check verdict with gates, use greenlight check on the issue."
+}

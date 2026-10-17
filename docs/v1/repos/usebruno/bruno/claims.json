@@ -1,9 +1,17 @@
 {
   "repo": "usebruno/bruno",
-  "generated_at": "2026-10-17T01:35:48.115Z",
+  "generated_at": "2026-10-17T06:12:09.434Z",
   "honored": false,
   "policy_invalid": false,
-  "active_claim_count": 0,
+  "active_claim_count": 1,
   "queued_claim_count": 0,
-  "active_claims": []
+  "active_claims": [
+    {
+      "issue": 9553,
+      "issue_url": "https://github.com/usebruno/bruno/issues/9553",
+      "claimant": "CloudCorpRecords",
+      "state": "active",
+      "queue": []
+    }
+  ]
 }

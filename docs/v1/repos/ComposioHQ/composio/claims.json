@@ -1,9 +1,17 @@
 {
   "repo": "ComposioHQ/composio",
-  "generated_at": "2026-10-17T01:35:16.060Z",
+  "generated_at": "2026-10-17T06:11:33.041Z",
   "honored": false,
   "policy_invalid": false,
-  "active_claim_count": 0,
+  "active_claim_count": 1,
   "queued_claim_count": 0,
-  "active_claims": []
+  "active_claims": [
+    {
+      "issue": 4808,
+      "issue_url": "https://github.com/ComposioHQ/composio/issues/4808",
+      "claimant": "CloudCorpRecords",
+      "state": "linked",
+      "queue": []
+    }
+  ]
 }
