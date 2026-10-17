@@ -1,9 +1,24 @@
 {
   "repo": "convex/convex-js",
-  "generated_at": "2026-10-17T10:37:34.596Z",
+  "generated_at": "2026-10-17T13:57:23.696Z",
   "honored": false,
   "policy_invalid": false,
-  "active_claim_count": 0,
+  "active_claim_count": 2,
   "queued_claim_count": 0,
-  "active_claims": []
+  "active_claims": [
+    {
+      "issue": 200,
+      "issue_url": "https://github.com/convex/convex-js/issues/200",
+      "claimant": "CloudCorpRecords",
+      "state": "active",
+      "queue": []
+    },
+    {
+      "issue": 199,
+      "issue_url": "https://github.com/convex/convex-js/issues/199",
+      "claimant": "CloudCorpRecords",
+      "state": "active",
+      "queue": []
+    }
+  ]
 }

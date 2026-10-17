@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "repo": "usebruno/bruno",
+  "issue": 9545,
+  "generated_at": "2026-10-17T13:55:56.664Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T13:55:50.000Z",
+    "commentId": 6234732912,
+    "commentUrl": "https://github.com/usebruno/bruno/issues/9545#issuecomment-6234732912",
+    "plan": "Add a right-click action on response JSON values that converts the selected value directly into a test or post-response script, wired into the existing script generation in bruno-electron.",
+    "etaDays": 5,
+    "queueOk": null,
+    "state": "active",
+    "activatedAt": "2026-10-17T13:55:50.000Z",
+    "expiresAt": "2026-10-24T13:55:50.000Z",
+    "lastHeartbeatAt": "2026-10-17T13:55:50.000Z",
+    "linkedPr": null,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T13:55:50.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T13:55:50.000Z",
+      "commentId": 6234732912,
+      "commentUrl": "https://github.com/usebruno/bruno/issues/9545#issuecomment-6234732912",
+      "plan": "Add a right-click action on response JSON values that converts the selected value directly into a test or post-response script, wired into the existing script generation in bruno-electron.",
+      "etaDays": 5,
+      "queueOk": null,
+      "state": "active",
+      "activatedAt": "2026-10-17T13:55:50.000Z",
+      "expiresAt": "2026-10-24T13:55:50.000Z",
+      "lastHeartbeatAt": "2026-10-17T13:55:50.000Z",
+      "linkedPr": null,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T13:55:50.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

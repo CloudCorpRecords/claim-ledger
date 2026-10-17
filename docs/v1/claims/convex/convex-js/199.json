@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "repo": "convex/convex-js",
+  "issue": 199,
+  "generated_at": "2026-10-17T13:55:56.664Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T13:55:46.000Z",
+    "commentId": 6234731860,
+    "commentUrl": "https://github.com/convex/convex-js/issues/199#issuecomment-6234731860",
+    "plan": "Make the codegen path local-only so running codegen no longer creates tables and indexes on the deployment, matching what --help says. Small CLI change with regression tests.",
+    "etaDays": 3,
+    "queueOk": null,
+    "state": "active",
+    "activatedAt": "2026-10-17T13:55:46.000Z",
+    "expiresAt": "2026-10-24T13:55:46.000Z",
+    "lastHeartbeatAt": "2026-10-17T13:55:46.000Z",
+    "linkedPr": null,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T13:55:46.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T13:55:46.000Z",
+      "commentId": 6234731860,
+      "commentUrl": "https://github.com/convex/convex-js/issues/199#issuecomment-6234731860",
+      "plan": "Make the codegen path local-only so running codegen no longer creates tables and indexes on the deployment, matching what --help says. Small CLI change with regression tests.",
+      "etaDays": 3,
+      "queueOk": null,
+      "state": "active",
+      "activatedAt": "2026-10-17T13:55:46.000Z",
+      "expiresAt": "2026-10-24T13:55:46.000Z",
+      "lastHeartbeatAt": "2026-10-17T13:55:46.000Z",
+      "linkedPr": null,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T13:55:46.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

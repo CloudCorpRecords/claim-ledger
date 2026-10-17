@@ -3,6 +3,11 @@
   "active_claims": [
     {
       "repo": "actualbudget/actual",
+      "issue": 9246,
+      "state": "active"
+    },
+    {
+      "repo": "actualbudget/actual",
       "issue": 9230,
       "state": "linked"
     },
@@ -22,12 +27,28 @@
       "state": "linked"
     },
     {
+      "repo": "convex/convex-js",
+      "issue": 200,
+      "state": "active"
+    },
+    {
+      "repo": "convex/convex-js",
+      "issue": 199,
+      "state": "active"
+    },
+    {
+      "repo": "usebruno/bruno",
+      "issue": 9545,
+      "state": "active"
+    },
+    {
       "repo": "usebruno/bruno",
       "issue": 9553,
       "state": "active"
     }
   ],
   "queued_claims": [],
-  "total_active": 5,
-  "over_cap": false
+  "total_active": 9,
+  "over_cap": true,
+  "_ledger_note": "This account holds more than 5 active claims across indexed repos; readers treat claims past the cap as soft (SPEC 3.4)."
 }
