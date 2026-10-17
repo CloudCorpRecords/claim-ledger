@@ -13,12 +13,12 @@
     },
     {
       "repo": "actualbudget/actual",
-      "issue": 8902,
+      "issue": 7333,
       "state": "active"
     },
     {
       "repo": "actualbudget/actual",
-      "issue": 7333,
+      "issue": 8902,
       "state": "active"
     },
     {
@@ -44,12 +44,12 @@
     {
       "repo": "ghostfolio/ghostfolio",
       "issue": 8141,
-      "state": "active"
+      "state": "linked"
     },
     {
       "repo": "ghostfolio/ghostfolio",
       "issue": 6168,
-      "state": "active"
+      "state": "linked"
     },
     {
       "repo": "ComposioHQ/composio",

@@ -1,6 +1,6 @@
 {
   "repo": "actualbudget/actual",
-  "generated_at": "2026-10-17T21:13:16.522Z",
+  "generated_at": "2026-10-17T23:08:35.188Z",
   "honored": false,
   "policy_invalid": false,
   "active_claim_count": 4,
@@ -14,15 +14,15 @@
       "queue": []
     },
     {
-      "issue": 8902,
-      "issue_url": "https://github.com/actualbudget/actual/issues/8902",
+      "issue": 7333,
+      "issue_url": "https://github.com/actualbudget/actual/issues/7333",
       "claimant": "CloudCorpRecords",
       "state": "active",
       "queue": []
     },
     {
-      "issue": 7333,
-      "issue_url": "https://github.com/actualbudget/actual/issues/7333",
+      "issue": 8902,
+      "issue_url": "https://github.com/actualbudget/actual/issues/8902",
       "claimant": "CloudCorpRecords",
       "state": "active",
       "queue": []
