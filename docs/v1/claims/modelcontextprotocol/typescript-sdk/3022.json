@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "repo": "modelcontextprotocol/typescript-sdk",
+  "issue": 3022,
+  "generated_at": "2026-10-17T18:56:56.807Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T18:53:32.000Z",
+    "commentId": 6238978239,
+    "commentUrl": "https://github.com/modelcontextprotocol/typescript-sdk/issues/3022#issuecomment-6238978239",
+    "plan": null,
+    "etaDays": 4,
+    "queueOk": null,
+    "state": "active",
+    "activatedAt": "2026-10-17T18:53:32.000Z",
+    "expiresAt": "2026-10-24T18:53:32.000Z",
+    "lastHeartbeatAt": "2026-10-17T18:53:32.000Z",
+    "linkedPr": null,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T18:53:32.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T18:53:32.000Z",
+      "commentId": 6238978239,
+      "commentUrl": "https://github.com/modelcontextprotocol/typescript-sdk/issues/3022#issuecomment-6238978239",
+      "plan": null,
+      "etaDays": 4,
+      "queueOk": null,
+      "state": "active",
+      "activatedAt": "2026-10-17T18:53:32.000Z",
+      "expiresAt": "2026-10-24T18:53:32.000Z",
+      "lastHeartbeatAt": "2026-10-17T18:53:32.000Z",
+      "linkedPr": null,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T18:53:32.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

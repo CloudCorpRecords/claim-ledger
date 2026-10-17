@@ -1,0 +1,23 @@
+{
+  "issue": "https://github.com/modelcontextprotocol/typescript-sdk/issues/3043",
+  "verdict": "TAKEN",
+  "reason": "Protocol claim active: @CloudCorpRecords holds this issue until 2026-10-24.",
+  "claim": {
+    "state": "active",
+    "claimant": "CloudCorpRecords",
+    "claimed_at": "2026-10-17T18:53:04.000Z",
+    "expires_at": "2026-10-24T18:53:04.000Z",
+    "queue": []
+  },
+  "protocol_note": "An active protocol claim governs this issue.",
+  "competing_prs": [],
+  "gates": [],
+  "repo_protocol": {
+    "honored": false,
+    "lease_days": 7
+  },
+  "checked_at": "2026-10-17T18:56:56.807Z",
+  "stale_after_seconds": 21600,
+  "issue_title": "[v1.x] Backport #2654: `notifications/cancelled` with `requestId: 0` is ignored, so the first server→client request cannot be cancelled (still in 1.32.1)",
+  "_ledger_note": "Ledger Phase 2: competing_prs come from the issue timeline only and gates are not indexed (empty). For the live check verdict with gates, use greenlight check on the issue."
+}

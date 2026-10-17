@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "repo": "ghostfolio/ghostfolio",
+  "issue": 6168,
+  "generated_at": "2026-10-17T18:56:56.807Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T18:40:21.000Z",
+    "commentId": 6238759023,
+    "commentUrl": "https://github.com/ghostfolio/ghostfolio/issues/6168#issuecomment-6238759023",
+    "plan": null,
+    "etaDays": 4,
+    "queueOk": null,
+    "state": "active",
+    "activatedAt": "2026-10-17T18:40:21.000Z",
+    "expiresAt": "2026-10-24T18:40:21.000Z",
+    "lastHeartbeatAt": "2026-10-17T18:40:21.000Z",
+    "linkedPr": null,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T18:40:21.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T18:40:21.000Z",
+      "commentId": 6238759023,
+      "commentUrl": "https://github.com/ghostfolio/ghostfolio/issues/6168#issuecomment-6238759023",
+      "plan": null,
+      "etaDays": 4,
+      "queueOk": null,
+      "state": "active",
+      "activatedAt": "2026-10-17T18:40:21.000Z",
+      "expiresAt": "2026-10-24T18:40:21.000Z",
+      "lastHeartbeatAt": "2026-10-17T18:40:21.000Z",
+      "linkedPr": null,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T18:40:21.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

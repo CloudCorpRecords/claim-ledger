@@ -1,9 +1,24 @@
 {
   "repo": "reticlehq/reticle",
-  "generated_at": "2026-10-17T16:46:35.040Z",
+  "generated_at": "2026-10-17T18:57:16.044Z",
   "honored": false,
   "policy_invalid": false,
-  "active_claim_count": 0,
+  "active_claim_count": 2,
   "queued_claim_count": 0,
-  "active_claims": []
+  "active_claims": [
+    {
+      "issue": 1252,
+      "issue_url": "https://github.com/reticlehq/reticle/issues/1252",
+      "claimant": "CloudCorpRecords",
+      "state": "active",
+      "queue": []
+    },
+    {
+      "issue": 1681,
+      "issue_url": "https://github.com/reticlehq/reticle/issues/1681",
+      "claimant": "CloudCorpRecords",
+      "state": "active",
+      "queue": []
+    }
+  ]
 }

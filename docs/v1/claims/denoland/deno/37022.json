@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "repo": "denoland/deno",
+  "issue": 37022,
+  "generated_at": "2026-10-17T18:56:56.807Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T18:39:47.000Z",
+    "commentId": 6238749453,
+    "commentUrl": "https://github.com/denoland/deno/issues/37022#issuecomment-6238749453",
+    "plan": null,
+    "etaDays": 4,
+    "queueOk": null,
+    "state": "active",
+    "activatedAt": "2026-10-17T18:39:47.000Z",
+    "expiresAt": "2026-10-24T18:39:47.000Z",
+    "lastHeartbeatAt": "2026-10-17T18:39:47.000Z",
+    "linkedPr": null,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T18:39:47.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T18:39:47.000Z",
+      "commentId": 6238749453,
+      "commentUrl": "https://github.com/denoland/deno/issues/37022#issuecomment-6238749453",
+      "plan": null,
+      "etaDays": 4,
+      "queueOk": null,
+      "state": "active",
+      "activatedAt": "2026-10-17T18:39:47.000Z",
+      "expiresAt": "2026-10-24T18:39:47.000Z",
+      "lastHeartbeatAt": "2026-10-17T18:39:47.000Z",
+      "linkedPr": null,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T18:39:47.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

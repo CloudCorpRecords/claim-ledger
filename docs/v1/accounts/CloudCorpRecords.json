@@ -2,9 +2,14 @@
   "login": "CloudCorpRecords",
   "active_claims": [
     {
-      "repo": "actualbudget/actual",
-      "issue": 9246,
-      "state": "linked"
+      "repo": "reticlehq/reticle",
+      "issue": 1252,
+      "state": "active"
+    },
+    {
+      "repo": "reticlehq/reticle",
+      "issue": 1681,
+      "state": "active"
     },
     {
       "repo": "actualbudget/actual",
@@ -20,6 +25,16 @@
       "repo": "mealie-recipes/mealie",
       "issue": 8735,
       "state": "linked"
+    },
+    {
+      "repo": "ghostfolio/ghostfolio",
+      "issue": 6168,
+      "state": "active"
+    },
+    {
+      "repo": "ghostfolio/ghostfolio",
+      "issue": 8141,
+      "state": "active"
     },
     {
       "repo": "ComposioHQ/composio",
@@ -60,10 +75,30 @@
       "repo": "vitejs/vite",
       "issue": 23807,
       "state": "linked"
+    },
+    {
+      "repo": "denoland/deno",
+      "issue": 37022,
+      "state": "active"
+    },
+    {
+      "repo": "denoland/deno",
+      "issue": 37029,
+      "state": "active"
+    },
+    {
+      "repo": "modelcontextprotocol/typescript-sdk",
+      "issue": 3022,
+      "state": "active"
+    },
+    {
+      "repo": "modelcontextprotocol/typescript-sdk",
+      "issue": 3043,
+      "state": "active"
     }
   ],
   "queued_claims": [],
-  "total_active": 12,
+  "total_active": 19,
   "over_cap": true,
   "_ledger_note": "This account holds more than 5 active claims across indexed repos; readers treat claims past the cap as soft (SPEC 3.4)."
 }
