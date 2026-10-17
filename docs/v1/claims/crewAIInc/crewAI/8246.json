@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "repo": "crewAIInc/crewAI",
+  "issue": 8246,
+  "generated_at": "2026-10-17T21:12:11.493Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T19:07:52.000Z",
+    "commentId": 6239229885,
+    "commentUrl": "https://github.com/crewAIInc/crewAI/issues/8246#issuecomment-6239229885",
+    "plan": null,
+    "etaDays": 4,
+    "queueOk": null,
+    "state": "active",
+    "activatedAt": "2026-10-17T19:07:52.000Z",
+    "expiresAt": "2026-10-24T19:07:52.000Z",
+    "lastHeartbeatAt": "2026-10-17T19:07:52.000Z",
+    "linkedPr": null,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T19:07:52.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T19:07:52.000Z",
+      "commentId": 6239229885,
+      "commentUrl": "https://github.com/crewAIInc/crewAI/issues/8246#issuecomment-6239229885",
+      "plan": null,
+      "etaDays": 4,
+      "queueOk": null,
+      "state": "active",
+      "activatedAt": "2026-10-17T19:07:52.000Z",
+      "expiresAt": "2026-10-24T19:07:52.000Z",
+      "lastHeartbeatAt": "2026-10-17T19:07:52.000Z",
+      "linkedPr": null,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T19:07:52.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

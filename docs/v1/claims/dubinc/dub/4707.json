@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "repo": "dubinc/dub",
+  "issue": 4707,
+  "generated_at": "2026-10-17T21:12:11.493Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T19:11:19.000Z",
+    "commentId": 6239285292,
+    "commentUrl": "https://github.com/dubinc/dub/issues/4707#issuecomment-6239285292",
+    "plan": null,
+    "etaDays": 4,
+    "queueOk": null,
+    "state": "active",
+    "activatedAt": "2026-10-17T19:11:19.000Z",
+    "expiresAt": "2026-10-24T19:11:19.000Z",
+    "lastHeartbeatAt": "2026-10-17T19:11:19.000Z",
+    "linkedPr": null,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T19:11:19.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T19:11:19.000Z",
+      "commentId": 6239285292,
+      "commentUrl": "https://github.com/dubinc/dub/issues/4707#issuecomment-6239285292",
+      "plan": null,
+      "etaDays": 4,
+      "queueOk": null,
+      "state": "active",
+      "activatedAt": "2026-10-17T19:11:19.000Z",
+      "expiresAt": "2026-10-24T19:11:19.000Z",
+      "lastHeartbeatAt": "2026-10-17T19:11:19.000Z",
+      "linkedPr": null,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T19:11:19.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

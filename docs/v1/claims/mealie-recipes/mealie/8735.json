@@ -2,7 +2,7 @@
   "v": 1,
   "repo": "mealie-recipes/mealie",
   "issue": 8735,
-  "generated_at": "2026-10-17T18:56:56.807Z",
+  "generated_at": "2026-10-17T21:12:11.493Z",
   "active": {
     "position": 1,
     "claimant": "CloudCorpRecords",
@@ -12,20 +12,15 @@
     "plan": "Trim redundant CI work on pull requests: path filters on the PR workflows, DB matrix scoped to DB-touching changes, CodeQL scoped to relevant paths.",
     "etaDays": 3,
     "queueOk": null,
-    "state": "linked",
+    "state": "active",
     "activatedAt": "2026-10-17T04:34:20.000Z",
     "expiresAt": "2026-10-24T04:34:20.000Z",
     "lastHeartbeatAt": "2026-10-17T04:34:20.000Z",
-    "linkedPr": 8753,
+    "linkedPr": null,
     "history": [
       {
         "event": "claimed",
         "at": "2026-10-17T04:34:20.000Z",
-        "by": "CloudCorpRecords"
-      },
-      {
-        "event": "linked",
-        "at": "2026-10-17T04:41:00.000Z",
         "by": "CloudCorpRecords"
       }
     ]
@@ -41,20 +36,15 @@
       "plan": "Trim redundant CI work on pull requests: path filters on the PR workflows, DB matrix scoped to DB-touching changes, CodeQL scoped to relevant paths.",
       "etaDays": 3,
       "queueOk": null,
-      "state": "linked",
+      "state": "active",
       "activatedAt": "2026-10-17T04:34:20.000Z",
       "expiresAt": "2026-10-24T04:34:20.000Z",
       "lastHeartbeatAt": "2026-10-17T04:34:20.000Z",
-      "linkedPr": 8753,
+      "linkedPr": null,
       "history": [
         {
           "event": "claimed",
           "at": "2026-10-17T04:34:20.000Z",
-          "by": "CloudCorpRecords"
-        },
-        {
-          "event": "linked",
-          "at": "2026-10-17T04:41:00.000Z",
           "by": "CloudCorpRecords"
         }
       ]

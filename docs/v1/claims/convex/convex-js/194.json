@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "repo": "convex/convex-js",
+  "issue": 194,
+  "generated_at": "2026-10-17T21:12:11.493Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T19:12:20.000Z",
+    "commentId": 6239301906,
+    "commentUrl": "https://github.com/convex/convex-js/issues/194#issuecomment-6239301906",
+    "plan": null,
+    "etaDays": 4,
+    "queueOk": null,
+    "state": "active",
+    "activatedAt": "2026-10-17T19:12:20.000Z",
+    "expiresAt": "2026-10-24T19:12:20.000Z",
+    "lastHeartbeatAt": "2026-10-17T19:12:20.000Z",
+    "linkedPr": null,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T19:12:20.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T19:12:20.000Z",
+      "commentId": 6239301906,
+      "commentUrl": "https://github.com/convex/convex-js/issues/194#issuecomment-6239301906",
+      "plan": null,
+      "etaDays": 4,
+      "queueOk": null,
+      "state": "active",
+      "activatedAt": "2026-10-17T19:12:20.000Z",
+      "expiresAt": "2026-10-24T19:12:20.000Z",
+      "lastHeartbeatAt": "2026-10-17T19:12:20.000Z",
+      "linkedPr": null,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T19:12:20.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

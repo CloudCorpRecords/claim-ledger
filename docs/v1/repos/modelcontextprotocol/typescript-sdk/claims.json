@@ -1,6 +1,6 @@
 {
   "repo": "modelcontextprotocol/typescript-sdk",
-  "generated_at": "2026-10-17T19:04:49.646Z",
+  "generated_at": "2026-10-17T21:19:31.026Z",
   "honored": false,
   "policy_invalid": false,
   "active_claim_count": 2,
@@ -17,7 +17,7 @@
       "issue": 3043,
       "issue_url": "https://github.com/modelcontextprotocol/typescript-sdk/issues/3043",
       "claimant": "CloudCorpRecords",
-      "state": "active",
+      "state": "linked",
       "queue": []
     }
   ]

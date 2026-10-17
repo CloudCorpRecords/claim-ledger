@@ -2,7 +2,7 @@
   "v": 1,
   "repo": "actualbudget/actual",
   "issue": 9230,
-  "generated_at": "2026-10-17T18:56:56.807Z",
+  "generated_at": "2026-10-17T21:12:11.493Z",
   "active": {
     "position": 1,
     "claimant": "CloudCorpRecords",
@@ -12,11 +12,11 @@
     "plan": "Fix the save-file-dialog handler in packages/desktop-electron/index.ts: slice the buffer view correctly (byteOffset/byteLength), await the write before resolving, add a red-first regression test and a release note.",
     "etaDays": 2,
     "queueOk": null,
-    "state": "linked",
+    "state": "active",
     "activatedAt": "2026-10-16T21:58:57.000Z",
-    "expiresAt": "2026-10-24T18:56:56.807Z",
-    "lastHeartbeatAt": "2026-10-17T18:56:56.807Z",
-    "linkedPr": 9240,
+    "expiresAt": "2026-10-24T21:12:11.493Z",
+    "lastHeartbeatAt": "2026-10-17T21:12:11.493Z",
+    "linkedPr": null,
     "history": [
       {
         "event": "claimed",
@@ -25,12 +25,7 @@
       },
       {
         "event": "heartbeat",
-        "at": "2026-10-17T18:56:56.807Z",
-        "by": "CloudCorpRecords"
-      },
-      {
-        "event": "linked",
-        "at": "2026-10-16T22:28:54.000Z",
+        "at": "2026-10-17T21:12:11.493Z",
         "by": "CloudCorpRecords"
       }
     ]
@@ -46,11 +41,11 @@
       "plan": "Fix the save-file-dialog handler in packages/desktop-electron/index.ts: slice the buffer view correctly (byteOffset/byteLength), await the write before resolving, add a red-first regression test and a release note.",
       "etaDays": 2,
       "queueOk": null,
-      "state": "linked",
+      "state": "active",
       "activatedAt": "2026-10-16T21:58:57.000Z",
-      "expiresAt": "2026-10-24T18:56:56.807Z",
-      "lastHeartbeatAt": "2026-10-17T18:56:56.807Z",
-      "linkedPr": 9240,
+      "expiresAt": "2026-10-24T21:12:11.493Z",
+      "lastHeartbeatAt": "2026-10-17T21:12:11.493Z",
+      "linkedPr": null,
       "history": [
         {
           "event": "claimed",
@@ -59,12 +54,7 @@
         },
         {
           "event": "heartbeat",
-          "at": "2026-10-17T18:56:56.807Z",
-          "by": "CloudCorpRecords"
-        },
-        {
-          "event": "linked",
-          "at": "2026-10-16T22:28:54.000Z",
+          "at": "2026-10-17T21:12:11.493Z",
           "by": "CloudCorpRecords"
         }
       ]
