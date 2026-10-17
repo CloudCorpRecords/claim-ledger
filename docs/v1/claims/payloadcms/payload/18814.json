@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "repo": "payloadcms/payload",
+  "issue": 18814,
+  "generated_at": "2026-10-17T16:46:17.528Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T14:57:57.000Z",
+    "commentId": 6235396251,
+    "commentUrl": "https://github.com/payloadcms/payload/issues/18814#issuecomment-6235396251",
+    "plan": "Fix the tag field's children join in packages/payload/src/hierarchy/createTagField.ts so a tag's children actually resolve instead of always coming back empty, with a regression test.",
+    "etaDays": 3,
+    "queueOk": null,
+    "state": "linked",
+    "activatedAt": "2026-10-17T14:57:57.000Z",
+    "expiresAt": "2026-10-24T14:57:57.000Z",
+    "lastHeartbeatAt": "2026-10-17T14:57:57.000Z",
+    "linkedPr": 18819,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T14:57:57.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-17T15:00:01.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T14:57:57.000Z",
+      "commentId": 6235396251,
+      "commentUrl": "https://github.com/payloadcms/payload/issues/18814#issuecomment-6235396251",
+      "plan": "Fix the tag field's children join in packages/payload/src/hierarchy/createTagField.ts so a tag's children actually resolve instead of always coming back empty, with a regression test.",
+      "etaDays": 3,
+      "queueOk": null,
+      "state": "linked",
+      "activatedAt": "2026-10-17T14:57:57.000Z",
+      "expiresAt": "2026-10-24T14:57:57.000Z",
+      "lastHeartbeatAt": "2026-10-17T14:57:57.000Z",
+      "linkedPr": 18819,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T14:57:57.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-17T15:00:01.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

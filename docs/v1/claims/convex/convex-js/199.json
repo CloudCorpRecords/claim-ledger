@@ -2,7 +2,7 @@
   "v": 1,
   "repo": "convex/convex-js",
   "issue": 199,
-  "generated_at": "2026-10-17T13:55:56.664Z",
+  "generated_at": "2026-10-17T16:46:17.528Z",
   "active": {
     "position": 1,
     "claimant": "CloudCorpRecords",
@@ -12,15 +12,20 @@
     "plan": "Make the codegen path local-only so running codegen no longer creates tables and indexes on the deployment, matching what --help says. Small CLI change with regression tests.",
     "etaDays": 3,
     "queueOk": null,
-    "state": "active",
+    "state": "linked",
     "activatedAt": "2026-10-17T13:55:46.000Z",
     "expiresAt": "2026-10-24T13:55:46.000Z",
     "lastHeartbeatAt": "2026-10-17T13:55:46.000Z",
-    "linkedPr": null,
+    "linkedPr": 203,
     "history": [
       {
         "event": "claimed",
         "at": "2026-10-17T13:55:46.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-17T14:13:39.000Z",
         "by": "CloudCorpRecords"
       }
     ]
@@ -36,15 +41,20 @@
       "plan": "Make the codegen path local-only so running codegen no longer creates tables and indexes on the deployment, matching what --help says. Small CLI change with regression tests.",
       "etaDays": 3,
       "queueOk": null,
-      "state": "active",
+      "state": "linked",
       "activatedAt": "2026-10-17T13:55:46.000Z",
       "expiresAt": "2026-10-24T13:55:46.000Z",
       "lastHeartbeatAt": "2026-10-17T13:55:46.000Z",
-      "linkedPr": null,
+      "linkedPr": 203,
       "history": [
         {
           "event": "claimed",
           "at": "2026-10-17T13:55:46.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-17T14:13:39.000Z",
           "by": "CloudCorpRecords"
         }
       ]

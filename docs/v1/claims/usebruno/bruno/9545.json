@@ -2,7 +2,7 @@
   "v": 1,
   "repo": "usebruno/bruno",
   "issue": 9545,
-  "generated_at": "2026-10-17T13:55:56.664Z",
+  "generated_at": "2026-10-17T16:46:17.528Z",
   "active": {
     "position": 1,
     "claimant": "CloudCorpRecords",
@@ -12,15 +12,20 @@
     "plan": "Add a right-click action on response JSON values that converts the selected value directly into a test or post-response script, wired into the existing script generation in bruno-electron.",
     "etaDays": 5,
     "queueOk": null,
-    "state": "active",
+    "state": "linked",
     "activatedAt": "2026-10-17T13:55:50.000Z",
     "expiresAt": "2026-10-24T13:55:50.000Z",
     "lastHeartbeatAt": "2026-10-17T13:55:50.000Z",
-    "linkedPr": null,
+    "linkedPr": 9562,
     "history": [
       {
         "event": "claimed",
         "at": "2026-10-17T13:55:50.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-17T15:03:56.000Z",
         "by": "CloudCorpRecords"
       }
     ]
@@ -36,15 +41,20 @@
       "plan": "Add a right-click action on response JSON values that converts the selected value directly into a test or post-response script, wired into the existing script generation in bruno-electron.",
       "etaDays": 5,
       "queueOk": null,
-      "state": "active",
+      "state": "linked",
       "activatedAt": "2026-10-17T13:55:50.000Z",
       "expiresAt": "2026-10-24T13:55:50.000Z",
       "lastHeartbeatAt": "2026-10-17T13:55:50.000Z",
-      "linkedPr": null,
+      "linkedPr": 9562,
       "history": [
         {
           "event": "claimed",
           "at": "2026-10-17T13:55:50.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-17T15:03:56.000Z",
           "by": "CloudCorpRecords"
         }
       ]

@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "repo": "payloadcms/payload",
+  "issue": 18815,
+  "generated_at": "2026-10-17T16:46:17.528Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T14:50:22.000Z",
+    "commentId": 6235314159,
+    "commentUrl": "https://github.com/payloadcms/payload/issues/18815#issuecomment-6235314159",
+    "plan": "Fix the tag delete cascade in the v4 hierarchy feature so removing one tag only detaches that tag from documents, instead of stripping every tag. I will trace the removal path in packages/payload/src/hierarchy, scope the cascade to the deleted tag, and add a regression test shaped like the linked repro.",
+    "etaDays": 4,
+    "queueOk": null,
+    "state": "linked",
+    "activatedAt": "2026-10-17T14:50:22.000Z",
+    "expiresAt": "2026-10-24T14:50:22.000Z",
+    "lastHeartbeatAt": "2026-10-17T14:50:22.000Z",
+    "linkedPr": 18820,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T14:50:22.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-17T15:28:57.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T14:50:22.000Z",
+      "commentId": 6235314159,
+      "commentUrl": "https://github.com/payloadcms/payload/issues/18815#issuecomment-6235314159",
+      "plan": "Fix the tag delete cascade in the v4 hierarchy feature so removing one tag only detaches that tag from documents, instead of stripping every tag. I will trace the removal path in packages/payload/src/hierarchy, scope the cascade to the deleted tag, and add a regression test shaped like the linked repro.",
+      "etaDays": 4,
+      "queueOk": null,
+      "state": "linked",
+      "activatedAt": "2026-10-17T14:50:22.000Z",
+      "expiresAt": "2026-10-24T14:50:22.000Z",
+      "lastHeartbeatAt": "2026-10-17T14:50:22.000Z",
+      "linkedPr": 18820,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T14:50:22.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-17T15:28:57.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

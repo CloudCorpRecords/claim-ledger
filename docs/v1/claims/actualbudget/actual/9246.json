@@ -2,7 +2,7 @@
   "v": 1,
   "repo": "actualbudget/actual",
   "issue": 9246,
-  "generated_at": "2026-10-17T13:55:56.664Z",
+  "generated_at": "2026-10-17T16:46:17.528Z",
   "active": {
     "position": 1,
     "claimant": "CloudCorpRecords",
@@ -12,15 +12,20 @@
     "plan": "Implement the supported API for setting a schedule next occurrence date through the normal mutation path so undo and redo stay correct, covering the cases the issue lists: forward, backward, overdue, finite recurrences, and history.",
     "etaDays": 7,
     "queueOk": null,
-    "state": "active",
+    "state": "linked",
     "activatedAt": "2026-10-17T13:55:53.000Z",
     "expiresAt": "2026-10-24T13:55:53.000Z",
     "lastHeartbeatAt": "2026-10-17T13:55:53.000Z",
-    "linkedPr": null,
+    "linkedPr": 9250,
     "history": [
       {
         "event": "claimed",
         "at": "2026-10-17T13:55:53.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-17T15:31:53.000Z",
         "by": "CloudCorpRecords"
       }
     ]
@@ -36,15 +41,20 @@
       "plan": "Implement the supported API for setting a schedule next occurrence date through the normal mutation path so undo and redo stay correct, covering the cases the issue lists: forward, backward, overdue, finite recurrences, and history.",
       "etaDays": 7,
       "queueOk": null,
-      "state": "active",
+      "state": "linked",
       "activatedAt": "2026-10-17T13:55:53.000Z",
       "expiresAt": "2026-10-24T13:55:53.000Z",
       "lastHeartbeatAt": "2026-10-17T13:55:53.000Z",
-      "linkedPr": null,
+      "linkedPr": 9250,
       "history": [
         {
           "event": "claimed",
           "at": "2026-10-17T13:55:53.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-17T15:31:53.000Z",
           "by": "CloudCorpRecords"
         }
       ]

@@ -2,7 +2,7 @@
   "v": 1,
   "repo": "convex/convex-js",
   "issue": 200,
-  "generated_at": "2026-10-17T13:55:56.664Z",
+  "generated_at": "2026-10-17T16:46:17.528Z",
   "active": {
     "position": 1,
     "claimant": "CloudCorpRecords",
@@ -12,15 +12,20 @@
     "plan": "Stop the local dev backend from binding 0.0.0.0 when no interface is passed: thread an interface option through the convex dev startup path and bind locally by default, with tests.",
     "etaDays": 4,
     "queueOk": null,
-    "state": "active",
+    "state": "linked",
     "activatedAt": "2026-10-17T13:55:48.000Z",
     "expiresAt": "2026-10-24T13:55:48.000Z",
     "lastHeartbeatAt": "2026-10-17T13:55:48.000Z",
-    "linkedPr": null,
+    "linkedPr": 204,
     "history": [
       {
         "event": "claimed",
         "at": "2026-10-17T13:55:48.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-17T14:32:05.000Z",
         "by": "CloudCorpRecords"
       }
     ]
@@ -36,15 +41,20 @@
       "plan": "Stop the local dev backend from binding 0.0.0.0 when no interface is passed: thread an interface option through the convex dev startup path and bind locally by default, with tests.",
       "etaDays": 4,
       "queueOk": null,
-      "state": "active",
+      "state": "linked",
       "activatedAt": "2026-10-17T13:55:48.000Z",
       "expiresAt": "2026-10-24T13:55:48.000Z",
       "lastHeartbeatAt": "2026-10-17T13:55:48.000Z",
-      "linkedPr": null,
+      "linkedPr": 204,
       "history": [
         {
           "event": "claimed",
           "at": "2026-10-17T13:55:48.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-17T14:32:05.000Z",
           "by": "CloudCorpRecords"
         }
       ]

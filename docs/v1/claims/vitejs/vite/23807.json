@@ -1,0 +1,64 @@
+{
+  "v": 1,
+  "repo": "vitejs/vite",
+  "issue": 23807,
+  "generated_at": "2026-10-17T16:46:17.528Z",
+  "active": {
+    "position": 1,
+    "claimant": "CloudCorpRecords",
+    "claimedAt": "2026-10-17T14:57:59.000Z",
+    "commentId": 6235396673,
+    "commentUrl": "https://github.com/vitejs/vite/issues/23807#issuecomment-6235396673",
+    "plan": "Fix the HTML plugin misclassifying a query-only link href as a local asset: correct the isExcludedUrl handling in packages/vite/src/node so the build no longer fails with EISDIR, with a regression test.",
+    "etaDays": 3,
+    "queueOk": null,
+    "state": "linked",
+    "activatedAt": "2026-10-17T14:57:59.000Z",
+    "expiresAt": "2026-10-24T14:57:59.000Z",
+    "lastHeartbeatAt": "2026-10-17T14:57:59.000Z",
+    "linkedPr": 23808,
+    "history": [
+      {
+        "event": "claimed",
+        "at": "2026-10-17T14:57:59.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-17T15:37:29.000Z",
+        "by": "CloudCorpRecords"
+      }
+    ]
+  },
+  "queue": [],
+  "claims": [
+    {
+      "position": 1,
+      "claimant": "CloudCorpRecords",
+      "claimedAt": "2026-10-17T14:57:59.000Z",
+      "commentId": 6235396673,
+      "commentUrl": "https://github.com/vitejs/vite/issues/23807#issuecomment-6235396673",
+      "plan": "Fix the HTML plugin misclassifying a query-only link href as a local asset: correct the isExcludedUrl handling in packages/vite/src/node so the build no longer fails with EISDIR, with a regression test.",
+      "etaDays": 3,
+      "queueOk": null,
+      "state": "linked",
+      "activatedAt": "2026-10-17T14:57:59.000Z",
+      "expiresAt": "2026-10-24T14:57:59.000Z",
+      "lastHeartbeatAt": "2026-10-17T14:57:59.000Z",
+      "linkedPr": 23808,
+      "history": [
+        {
+          "event": "claimed",
+          "at": "2026-10-17T14:57:59.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-17T15:37:29.000Z",
+          "by": "CloudCorpRecords"
+        }
+      ]
+    }
+  ],
+  "_ledger_note": "Append-only claim chain. GitHub comments are the source of truth; this index is rebuilt from public comments on a schedule."
+}

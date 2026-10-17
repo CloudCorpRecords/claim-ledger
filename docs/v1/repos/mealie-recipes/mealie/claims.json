@@ -1,6 +1,6 @@
 {
   "repo": "mealie-recipes/mealie",
-  "generated_at": "2026-10-17T13:57:03.911Z",
+  "generated_at": "2026-10-17T16:47:34.810Z",
   "honored": false,
   "policy_invalid": false,
   "active_claim_count": 2,
@@ -10,7 +10,7 @@
       "issue": 8628,
       "issue_url": "https://github.com/mealie-recipes/mealie/issues/8628",
       "claimant": "CloudCorpRecords",
-      "state": "active",
+      "state": "linked",
       "queue": []
     },
     {
