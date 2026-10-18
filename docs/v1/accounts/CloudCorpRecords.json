@@ -133,13 +133,13 @@
     },
     {
       "repo": "modelcontextprotocol/typescript-sdk",
-      "issue": 3022,
-      "state": "active"
+      "issue": 3043,
+      "state": "linked"
     },
     {
       "repo": "modelcontextprotocol/typescript-sdk",
-      "issue": 3043,
-      "state": "linked"
+      "issue": 3022,
+      "state": "active"
     }
   ],
   "queued_claims": [],
