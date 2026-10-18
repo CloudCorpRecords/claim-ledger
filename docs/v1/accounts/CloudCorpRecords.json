@@ -64,12 +64,12 @@
     {
       "repo": "convex/convex-js",
       "issue": 184,
-      "state": "active"
+      "state": "linked"
     },
     {
       "repo": "convex/convex-js",
       "issue": 194,
-      "state": "active"
+      "state": "linked"
     },
     {
       "repo": "convex/convex-js",
@@ -124,7 +124,7 @@
     {
       "repo": "denoland/deno",
       "issue": 37022,
-      "state": "active"
+      "state": "linked"
     },
     {
       "repo": "denoland/deno",

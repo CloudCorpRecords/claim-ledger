@@ -2,7 +2,7 @@
   "v": 1,
   "repo": "convex/convex-js",
   "issue": 194,
-  "generated_at": "2026-10-18T19:05:23.010Z",
+  "generated_at": "2026-10-18T21:28:56.422Z",
   "active": {
     "position": 1,
     "claimant": "CloudCorpRecords",
@@ -12,15 +12,20 @@
     "plan": null,
     "etaDays": 4,
     "queueOk": null,
-    "state": "active",
+    "state": "linked",
     "activatedAt": "2026-10-17T19:12:20.000Z",
     "expiresAt": "2026-10-24T19:12:20.000Z",
     "lastHeartbeatAt": "2026-10-17T19:12:20.000Z",
-    "linkedPr": null,
+    "linkedPr": 206,
     "history": [
       {
         "event": "claimed",
         "at": "2026-10-17T19:12:20.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-18T21:28:06.000Z",
         "by": "CloudCorpRecords"
       }
     ]
@@ -36,15 +41,20 @@
       "plan": null,
       "etaDays": 4,
       "queueOk": null,
-      "state": "active",
+      "state": "linked",
       "activatedAt": "2026-10-17T19:12:20.000Z",
       "expiresAt": "2026-10-24T19:12:20.000Z",
       "lastHeartbeatAt": "2026-10-17T19:12:20.000Z",
-      "linkedPr": null,
+      "linkedPr": 206,
       "history": [
         {
           "event": "claimed",
           "at": "2026-10-17T19:12:20.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-18T21:28:06.000Z",
           "by": "CloudCorpRecords"
         }
       ]

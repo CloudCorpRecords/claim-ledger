@@ -2,7 +2,7 @@
   "v": 1,
   "repo": "denoland/deno",
   "issue": 37022,
-  "generated_at": "2026-10-18T19:05:23.010Z",
+  "generated_at": "2026-10-18T21:28:56.422Z",
   "active": {
     "position": 1,
     "claimant": "CloudCorpRecords",
@@ -12,15 +12,20 @@
     "plan": null,
     "etaDays": 4,
     "queueOk": null,
-    "state": "active",
+    "state": "linked",
     "activatedAt": "2026-10-17T18:39:47.000Z",
     "expiresAt": "2026-10-24T18:39:47.000Z",
     "lastHeartbeatAt": "2026-10-17T18:39:47.000Z",
-    "linkedPr": null,
+    "linkedPr": 37039,
     "history": [
       {
         "event": "claimed",
         "at": "2026-10-17T18:39:47.000Z",
+        "by": "CloudCorpRecords"
+      },
+      {
+        "event": "linked",
+        "at": "2026-10-18T21:28:15.000Z",
         "by": "CloudCorpRecords"
       }
     ]
@@ -36,15 +41,20 @@
       "plan": null,
       "etaDays": 4,
       "queueOk": null,
-      "state": "active",
+      "state": "linked",
       "activatedAt": "2026-10-17T18:39:47.000Z",
       "expiresAt": "2026-10-24T18:39:47.000Z",
       "lastHeartbeatAt": "2026-10-17T18:39:47.000Z",
-      "linkedPr": null,
+      "linkedPr": 37039,
       "history": [
         {
           "event": "claimed",
           "at": "2026-10-17T18:39:47.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "linked",
+          "at": "2026-10-18T21:28:15.000Z",
           "by": "CloudCorpRecords"
         }
       ]
