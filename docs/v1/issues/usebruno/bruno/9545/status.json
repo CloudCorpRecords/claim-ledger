@@ -22,7 +22,7 @@
     "honored": false,
     "lease_days": 7
   },
-  "checked_at": "2026-10-18T09:53:20.237Z",
+  "checked_at": "2026-10-18T13:40:49.450Z",
   "stale_after_seconds": 21600,
   "issue_title": "Add support for right clicking response JSON objects and convert directly to test or post script",
   "_ledger_note": "Ledger Phase 2: competing_prs come from the issue timeline only and gates are not indexed (empty). For the live check verdict with gates, use greenlight check on the issue."
