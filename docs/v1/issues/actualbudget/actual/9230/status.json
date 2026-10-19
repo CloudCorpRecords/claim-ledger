@@ -1,12 +1,12 @@
 {
   "issue": "https://github.com/actualbudget/actual/issues/9230",
   "verdict": "TAKEN",
-  "reason": "Protocol claim active: @CloudCorpRecords holds this issue until 2026-10-25.",
+  "reason": "Protocol claim active: @CloudCorpRecords holds this issue until 2026-10-26.",
   "claim": {
     "state": "active",
     "claimant": "CloudCorpRecords",
     "claimed_at": "2026-10-16T21:58:57.000Z",
-    "expires_at": "2026-10-25T21:28:56.422Z",
+    "expires_at": "2026-10-26T01:40:26.151Z",
     "queue": []
   },
   "protocol_note": "An active protocol claim governs this issue.",
@@ -16,7 +16,7 @@
     "honored": false,
     "lease_days": 7
   },
-  "checked_at": "2026-10-18T21:28:56.422Z",
+  "checked_at": "2026-10-19T01:40:26.151Z",
   "stale_after_seconds": 21600,
   "issue_title": "[Bug]: Desktop \"Export data\" writes the whole 64 KiB buffer slab around the ZIP (file starts with leftover memory, ends with zeros)",
   "_ledger_note": "Ledger Phase 2: competing_prs come from the issue timeline only and gates are not indexed (empty). For the live check verdict with gates, use greenlight check on the issue."
