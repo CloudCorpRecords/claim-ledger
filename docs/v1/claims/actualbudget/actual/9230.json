@@ -2,7 +2,7 @@
   "v": 1,
   "repo": "actualbudget/actual",
   "issue": 9230,
-  "generated_at": "2026-10-19T23:12:51.279Z",
+  "generated_at": "2026-10-20T01:49:47.800Z",
   "active": {
     "position": 1,
     "claimant": "CloudCorpRecords",
@@ -14,8 +14,8 @@
     "queueOk": null,
     "state": "active",
     "activatedAt": "2026-10-16T21:58:57.000Z",
-    "expiresAt": "2026-10-26T23:12:51.279Z",
-    "lastHeartbeatAt": "2026-10-19T23:12:51.279Z",
+    "expiresAt": "2026-10-27T01:49:47.800Z",
+    "lastHeartbeatAt": "2026-10-20T01:49:47.800Z",
     "linkedPr": null,
     "history": [
       {
@@ -25,7 +25,7 @@
       },
       {
         "event": "heartbeat",
-        "at": "2026-10-19T23:12:51.279Z",
+        "at": "2026-10-20T01:49:47.800Z",
         "by": "CloudCorpRecords"
       }
     ]
@@ -43,8 +43,8 @@
       "queueOk": null,
       "state": "active",
       "activatedAt": "2026-10-16T21:58:57.000Z",
-      "expiresAt": "2026-10-26T23:12:51.279Z",
-      "lastHeartbeatAt": "2026-10-19T23:12:51.279Z",
+      "expiresAt": "2026-10-27T01:49:47.800Z",
+      "lastHeartbeatAt": "2026-10-20T01:49:47.800Z",
       "linkedPr": null,
       "history": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "event": "heartbeat",
-          "at": "2026-10-19T23:12:51.279Z",
+          "at": "2026-10-20T01:49:47.800Z",
           "by": "CloudCorpRecords"
         }
       ]
