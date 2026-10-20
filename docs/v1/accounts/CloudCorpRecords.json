@@ -22,11 +22,6 @@
       "state": "active"
     },
     {
-      "repo": "actualbudget/actual",
-      "issue": 9230,
-      "state": "linked"
-    },
-    {
       "repo": "mealie-recipes/mealie",
       "issue": 1925,
       "state": "active"
@@ -78,12 +73,12 @@
     },
     {
       "repo": "payloadcms/payload",
-      "issue": 18814,
+      "issue": 18815,
       "state": "linked"
     },
     {
       "repo": "payloadcms/payload",
-      "issue": 18815,
+      "issue": 18814,
       "state": "linked"
     },
     {
@@ -138,7 +133,7 @@
     }
   ],
   "queued_claims": [],
-  "total_active": 27,
+  "total_active": 26,
   "over_cap": true,
   "_ledger_note": "This account holds more than 5 active claims across indexed repos; readers treat claims past the cap as soft (SPEC 3.4)."
 }
