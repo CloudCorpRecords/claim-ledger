@@ -24,7 +24,7 @@
     {
       "repo": "actualbudget/actual",
       "issue": 9230,
-      "state": "active"
+      "state": "linked"
     },
     {
       "repo": "mealie-recipes/mealie",
@@ -34,11 +34,6 @@
     {
       "repo": "mealie-recipes/mealie",
       "issue": 8735,
-      "state": "active"
-    },
-    {
-      "repo": "mealie-recipes/mealie",
-      "issue": 8628,
       "state": "active"
     },
     {
@@ -143,7 +138,7 @@
     }
   ],
   "queued_claims": [],
-  "total_active": 28,
+  "total_active": 27,
   "over_cap": true,
   "_ledger_note": "This account holds more than 5 active claims across indexed repos; readers treat claims past the cap as soft (SPEC 3.4)."
 }
