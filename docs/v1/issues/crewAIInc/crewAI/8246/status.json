@@ -16,7 +16,7 @@
     "honored": false,
     "lease_days": 7
   },
-  "checked_at": "2026-10-21T07:33:04.241Z",
+  "checked_at": "2026-10-21T13:13:15.845Z",
   "stale_after_seconds": 21600,
   "issue_title": "[Feature Request] Subshell & CLI execution guardrail middleware integration",
   "_ledger_note": "Ledger Phase 2: competing_prs come from the issue timeline only and gates are not indexed (empty). For the live check verdict with gates, use greenlight check on the issue."
