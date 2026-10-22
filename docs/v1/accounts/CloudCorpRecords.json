@@ -42,11 +42,6 @@
       "state": "linked"
     },
     {
-      "repo": "ComposioHQ/composio",
-      "issue": 4808,
-      "state": "linked"
-    },
-    {
       "repo": "convex/convex-js",
       "issue": 196,
       "state": "linked"
@@ -74,6 +69,11 @@
     {
       "repo": "payloadcms/payload",
       "issue": 18815,
+      "state": "linked"
+    },
+    {
+      "repo": "payloadcms/payload",
+      "issue": 18814,
       "state": "linked"
     },
     {
