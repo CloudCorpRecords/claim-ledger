@@ -77,11 +77,6 @@
       "state": "linked"
     },
     {
-      "repo": "payloadcms/payload",
-      "issue": 18814,
-      "state": "linked"
-    },
-    {
       "repo": "usebruno/bruno",
       "issue": 9545,
       "state": "linked"
@@ -99,11 +94,6 @@
     {
       "repo": "dubinc/dub",
       "issue": 4707,
-      "state": "active"
-    },
-    {
-      "repo": "crewAIInc/crewAI",
-      "issue": 8246,
       "state": "active"
     },
     {
@@ -133,7 +123,7 @@
     }
   ],
   "queued_claims": [],
-  "total_active": 26,
+  "total_active": 24,
   "over_cap": true,
   "_ledger_note": "This account holds more than 5 active claims across indexed repos; readers treat claims past the cap as soft (SPEC 3.4)."
 }
