@@ -115,15 +115,10 @@
       "repo": "modelcontextprotocol/typescript-sdk",
       "issue": 3043,
       "state": "linked"
-    },
-    {
-      "repo": "modelcontextprotocol/typescript-sdk",
-      "issue": 3022,
-      "state": "active"
     }
   ],
   "queued_claims": [],
-  "total_active": 24,
+  "total_active": 23,
   "over_cap": true,
   "_ledger_note": "This account holds more than 5 active claims across indexed repos; readers treat claims past the cap as soft (SPEC 3.4)."
 }
