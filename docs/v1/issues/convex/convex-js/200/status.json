@@ -22,7 +22,7 @@
     "honored": false,
     "lease_days": 7
   },
-  "checked_at": "2026-10-24T19:12:52.260Z",
+  "checked_at": "2026-10-24T21:36:33.415Z",
   "stale_after_seconds": 21600,
   "issue_title": "Local deployments bind the backend to 0.0.0.0: `convex dev` passes no --interface",
   "_ledger_note": "Ledger Phase 2: competing_prs come from the issue timeline only and gates are not indexed (empty). For the live check verdict with gates, use greenlight check on the issue."

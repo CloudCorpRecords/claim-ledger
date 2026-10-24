@@ -2,29 +2,8 @@
   "v": 1,
   "repo": "dubinc/dub",
   "issue": 4576,
-  "generated_at": "2026-10-24T19:12:52.260Z",
-  "active": {
-    "position": 1,
-    "claimant": "CloudCorpRecords",
-    "claimedAt": "2026-10-17T19:13:23.000Z",
-    "commentId": 6239318790,
-    "commentUrl": "https://github.com/dubinc/dub/issues/4576#issuecomment-6239318790",
-    "plan": null,
-    "etaDays": 4,
-    "queueOk": null,
-    "state": "active",
-    "activatedAt": "2026-10-17T19:13:23.000Z",
-    "expiresAt": "2026-10-24T19:13:23.000Z",
-    "lastHeartbeatAt": "2026-10-17T19:13:23.000Z",
-    "linkedPr": null,
-    "history": [
-      {
-        "event": "claimed",
-        "at": "2026-10-17T19:13:23.000Z",
-        "by": "CloudCorpRecords"
-      }
-    ]
-  },
+  "generated_at": "2026-10-24T21:36:33.415Z",
+  "active": null,
   "queue": [],
   "claims": [
     {
@@ -36,7 +15,7 @@
       "plan": null,
       "etaDays": 4,
       "queueOk": null,
-      "state": "active",
+      "state": "expired",
       "activatedAt": "2026-10-17T19:13:23.000Z",
       "expiresAt": "2026-10-24T19:13:23.000Z",
       "lastHeartbeatAt": "2026-10-17T19:13:23.000Z",
@@ -46,6 +25,11 @@
           "event": "claimed",
           "at": "2026-10-17T19:13:23.000Z",
           "by": "CloudCorpRecords"
+        },
+        {
+          "event": "expired",
+          "at": "2026-10-24T19:13:23.000Z",
+          "by": "protocol"
         }
       ]
     }

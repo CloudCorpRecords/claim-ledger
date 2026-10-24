@@ -1,17 +1,9 @@
 {
   "repo": "dubinc/dub",
-  "generated_at": "2026-10-24T19:15:30.982Z",
+  "generated_at": "2026-10-24T21:39:01.748Z",
   "honored": false,
   "policy_invalid": false,
-  "active_claim_count": 1,
+  "active_claim_count": 0,
   "queued_claim_count": 0,
-  "active_claims": [
-    {
-      "issue": 4576,
-      "issue_url": "https://github.com/dubinc/dub/issues/4576",
-      "claimant": "CloudCorpRecords",
-      "state": "active",
-      "queue": []
-    }
-  ]
+  "active_claims": []
 }
