@@ -22,7 +22,7 @@
     "honored": false,
     "lease_days": 7
   },
-  "checked_at": "2026-10-24T09:29:59.611Z",
+  "checked_at": "2026-10-24T13:30:15.573Z",
   "stale_after_seconds": 21600,
   "issue_title": "[BUG] Docker logs show \"No exchange rate for nullEUR\"",
   "_ledger_note": "Ledger Phase 2: competing_prs come from the issue timeline only and gates are not indexed (empty). For the live check verdict with gates, use greenlight check on the issue."
