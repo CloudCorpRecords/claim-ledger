@@ -2,29 +2,8 @@
   "v": 1,
   "repo": "mealie-recipes/mealie",
   "issue": 8735,
-  "generated_at": "2026-10-24T00:37:47.135Z",
-  "active": {
-    "position": 1,
-    "claimant": "CloudCorpRecords",
-    "claimedAt": "2026-10-17T04:34:20.000Z",
-    "commentId": 6229685100,
-    "commentUrl": "https://github.com/mealie-recipes/mealie/issues/8735#issuecomment-6229685100",
-    "plan": "Trim redundant CI work on pull requests: path filters on the PR workflows, DB matrix scoped to DB-touching changes, CodeQL scoped to relevant paths.",
-    "etaDays": 3,
-    "queueOk": null,
-    "state": "active",
-    "activatedAt": "2026-10-17T04:34:20.000Z",
-    "expiresAt": "2026-10-24T04:34:20.000Z",
-    "lastHeartbeatAt": "2026-10-17T04:34:20.000Z",
-    "linkedPr": null,
-    "history": [
-      {
-        "event": "claimed",
-        "at": "2026-10-17T04:34:20.000Z",
-        "by": "CloudCorpRecords"
-      }
-    ]
-  },
+  "generated_at": "2026-10-24T05:01:20.915Z",
+  "active": null,
   "queue": [],
   "claims": [
     {
@@ -36,7 +15,7 @@
       "plan": "Trim redundant CI work on pull requests: path filters on the PR workflows, DB matrix scoped to DB-touching changes, CodeQL scoped to relevant paths.",
       "etaDays": 3,
       "queueOk": null,
-      "state": "active",
+      "state": "expired",
       "activatedAt": "2026-10-17T04:34:20.000Z",
       "expiresAt": "2026-10-24T04:34:20.000Z",
       "lastHeartbeatAt": "2026-10-17T04:34:20.000Z",
@@ -46,6 +25,11 @@
           "event": "claimed",
           "at": "2026-10-17T04:34:20.000Z",
           "by": "CloudCorpRecords"
+        },
+        {
+          "event": "expired",
+          "at": "2026-10-24T04:34:20.000Z",
+          "by": "protocol"
         }
       ]
     }

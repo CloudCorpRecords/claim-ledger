@@ -27,7 +27,7 @@
     "honored": false,
     "lease_days": 7
   },
-  "checked_at": "2026-10-24T00:37:47.135Z",
+  "checked_at": "2026-10-24T05:01:20.915Z",
   "stale_after_seconds": 21600,
   "issue_title": "[v4 beta] A tag's `children` join is always empty: documents tagged with `createTagField` never show up",
   "_ledger_note": "Ledger Phase 2: competing_prs come from the issue timeline only and gates are not indexed (empty). For the live check verdict with gates, use greenlight check on the issue."

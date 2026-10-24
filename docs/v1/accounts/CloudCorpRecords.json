@@ -27,11 +27,6 @@
       "state": "active"
     },
     {
-      "repo": "mealie-recipes/mealie",
-      "issue": 8735,
-      "state": "active"
-    },
-    {
       "repo": "ghostfolio/ghostfolio",
       "issue": 8141,
       "state": "linked"
@@ -118,7 +113,7 @@
     }
   ],
   "queued_claims": [],
-  "total_active": 23,
+  "total_active": 22,
   "over_cap": true,
   "_ledger_note": "This account holds more than 5 active claims across indexed repos; readers treat claims past the cap as soft (SPEC 3.4)."
 }

@@ -1,21 +1,14 @@
 {
   "repo": "mealie-recipes/mealie",
-  "generated_at": "2026-10-24T00:38:55.736Z",
+  "generated_at": "2026-10-24T05:02:30.642Z",
   "honored": false,
   "policy_invalid": false,
-  "active_claim_count": 2,
+  "active_claim_count": 1,
   "queued_claim_count": 0,
   "active_claims": [
     {
       "issue": 1925,
       "issue_url": "https://github.com/mealie-recipes/mealie/issues/1925",
-      "claimant": "CloudCorpRecords",
-      "state": "active",
-      "queue": []
-    },
-    {
-      "issue": 8735,
-      "issue_url": "https://github.com/mealie-recipes/mealie/issues/8735",
       "claimant": "CloudCorpRecords",
       "state": "active",
       "queue": []
