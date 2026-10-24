@@ -22,7 +22,7 @@
     "honored": false,
     "lease_days": 7
   },
-  "checked_at": "2026-10-24T21:36:33.415Z",
+  "checked_at": "2026-10-24T23:42:00.212Z",
   "stale_after_seconds": 21600,
   "issue_title": "AuthenticationManager de-authenticates when reauth refetches an identical (still-valid) token, and nothing re-arms",
   "_ledger_note": "Ledger Phase 2: competing_prs come from the issue timeline only and gates are not indexed (empty). For the live check verdict with gates, use greenlight check on the issue."
