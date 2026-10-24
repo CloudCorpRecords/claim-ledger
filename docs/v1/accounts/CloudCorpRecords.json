@@ -2,31 +2,6 @@
   "login": "CloudCorpRecords",
   "active_claims": [
     {
-      "repo": "reticlehq/reticle",
-      "issue": 1252,
-      "state": "active"
-    },
-    {
-      "repo": "actualbudget/actual",
-      "issue": 7358,
-      "state": "active"
-    },
-    {
-      "repo": "actualbudget/actual",
-      "issue": 7333,
-      "state": "active"
-    },
-    {
-      "repo": "actualbudget/actual",
-      "issue": 8902,
-      "state": "active"
-    },
-    {
-      "repo": "mealie-recipes/mealie",
-      "issue": 1925,
-      "state": "active"
-    },
-    {
       "repo": "ghostfolio/ghostfolio",
       "issue": 8141,
       "state": "linked"
@@ -87,11 +62,6 @@
       "state": "active"
     },
     {
-      "repo": "dubinc/dub",
-      "issue": 4707,
-      "state": "active"
-    },
-    {
       "repo": "vitejs/vite",
       "issue": 23807,
       "state": "linked"
@@ -113,7 +83,7 @@
     }
   ],
   "queued_claims": [],
-  "total_active": 22,
+  "total_active": 16,
   "over_cap": true,
   "_ledger_note": "This account holds more than 5 active claims across indexed repos; readers treat claims past the cap as soft (SPEC 3.4)."
 }

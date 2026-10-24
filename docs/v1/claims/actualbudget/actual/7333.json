@@ -2,29 +2,8 @@
   "v": 1,
   "repo": "actualbudget/actual",
   "issue": 7333,
-  "generated_at": "2026-10-24T16:56:58.256Z",
-  "active": {
-    "position": 1,
-    "claimant": "CloudCorpRecords",
-    "claimedAt": "2026-10-17T19:08:07.000Z",
-    "commentId": 6239233915,
-    "commentUrl": "https://github.com/actualbudget/actual/issues/7333#issuecomment-6239233915",
-    "plan": null,
-    "etaDays": 4,
-    "queueOk": null,
-    "state": "active",
-    "activatedAt": "2026-10-17T19:08:07.000Z",
-    "expiresAt": "2026-10-24T19:08:07.000Z",
-    "lastHeartbeatAt": "2026-10-17T19:08:07.000Z",
-    "linkedPr": null,
-    "history": [
-      {
-        "event": "claimed",
-        "at": "2026-10-17T19:08:07.000Z",
-        "by": "CloudCorpRecords"
-      }
-    ]
-  },
+  "generated_at": "2026-10-24T19:12:52.260Z",
+  "active": null,
   "queue": [],
   "claims": [
     {
@@ -36,7 +15,7 @@
       "plan": null,
       "etaDays": 4,
       "queueOk": null,
-      "state": "active",
+      "state": "expired",
       "activatedAt": "2026-10-17T19:08:07.000Z",
       "expiresAt": "2026-10-24T19:08:07.000Z",
       "lastHeartbeatAt": "2026-10-17T19:08:07.000Z",
@@ -46,6 +25,11 @@
           "event": "claimed",
           "at": "2026-10-17T19:08:07.000Z",
           "by": "CloudCorpRecords"
+        },
+        {
+          "event": "expired",
+          "at": "2026-10-24T19:08:07.000Z",
+          "by": "protocol"
         }
       ]
     }
