@@ -2,7 +2,7 @@
   "v": 1,
   "repo": "dubinc/dub",
   "issue": 4707,
-  "generated_at": "2026-10-26T13:55:15.455Z",
+  "generated_at": "2026-10-26T19:39:43.239Z",
   "active": null,
   "queue": [],
   "claims": [
@@ -11,7 +11,7 @@
       "claimant": "CloudCorpRecords",
       "claimedAt": "2026-10-17T19:11:19.000Z",
       "commentId": 6239285292,
-      "commentUrl": "https://github.com/dubinc/dub/issues/4707#issuecomment-6239285292",
+      "commentUrl": "https://github.com/dubinc/dub.link/issues/4707#issuecomment-6239285292",
       "plan": null,
       "etaDays": 4,
       "queueOk": null,
