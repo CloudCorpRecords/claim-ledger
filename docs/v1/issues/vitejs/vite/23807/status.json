@@ -1,7 +1,7 @@
 {
   "issue": "https://github.com/vitejs/vite/issues/23807",
   "verdict": "TAKEN",
-  "reason": "Protocol claim linked: @CloudCorpRecords holds this issue until 2026-10-24; open competing PRs: #23883, #23900.",
+  "reason": "Protocol claim linked: @CloudCorpRecords holds this issue until 2026-10-24; open competing PRs: #23900.",
   "claim": {
     "state": "linked",
     "claimant": "CloudCorpRecords",
@@ -29,7 +29,7 @@
     {
       "number": 23883,
       "author": "omerfarukgurbuz",
-      "state": "open"
+      "state": "closed"
     },
     {
       "number": 23900,
@@ -42,7 +42,7 @@
     "honored": false,
     "lease_days": 7
   },
-  "checked_at": "2026-10-26T06:58:24.756Z",
+  "checked_at": "2026-10-26T13:55:15.455Z",
   "stale_after_seconds": 21600,
   "issue_title": "Build fails with EISDIR when a `<link>` href is only a query string",
   "_ledger_note": "Ledger Phase 2: competing_prs come from the issue timeline only and gates are not indexed (empty). For the live check verdict with gates, use greenlight check on the issue."
