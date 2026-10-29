@@ -1,24 +1,9 @@
 {
   "repo": "payloadcms/payload",
-  "generated_at": "2026-10-28T20:01:24.581Z",
+  "generated_at": "2026-10-28T23:56:50.567Z",
   "honored": false,
   "policy_invalid": false,
-  "active_claim_count": 2,
+  "active_claim_count": 0,
   "queued_claim_count": 0,
-  "active_claims": [
-    {
-      "issue": 18815,
-      "issue_url": "https://github.com/payloadcms/payload/issues/18815",
-      "claimant": "CloudCorpRecords",
-      "state": "linked",
-      "queue": []
-    },
-    {
-      "issue": 18814,
-      "issue_url": "https://github.com/payloadcms/payload/issues/18814",
-      "claimant": "CloudCorpRecords",
-      "state": "linked",
-      "queue": []
-    }
-  ]
+  "active_claims": []
 }
