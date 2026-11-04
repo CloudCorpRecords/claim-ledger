@@ -42,23 +42,13 @@
       "state": "linked"
     },
     {
-      "repo": "denoland/deno",
-      "issue": 37022,
-      "state": "linked"
-    },
-    {
-      "repo": "denoland/deno",
-      "issue": 37029,
-      "state": "linked"
-    },
-    {
       "repo": "modelcontextprotocol/typescript-sdk",
       "issue": 3043,
       "state": "linked"
     }
   ],
   "queued_claims": [],
-  "total_active": 11,
+  "total_active": 9,
   "over_cap": true,
   "_ledger_note": "This account holds more than 5 active claims across indexed repos; readers treat claims past the cap as soft (SPEC 3.4)."
 }
