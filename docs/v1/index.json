@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T17:38:27.119Z",
+  "generated_at": "2026-11-05T22:50:19.919Z",
   "indexer": "claim-ledger/0.1.0",
   "engine": "@reneturcios/greenlight@0.4.0",
   "freshness_target": "15 minutes for opted-in repos (Phase 2); current schedule: every 15 minutes",
@@ -11,8 +11,8 @@
     "note": "Comments are fetched for every issue with comments > 0 (the comment body is the claim). Reactions are fetched only for comments carrying the claim marker. Timeline is fetched only for issues with protocol activity."
   },
   "totals": {
-    "repos_scanned": 48,
-    "issues_scanned": 2238,
+    "repos_scanned": 47,
+    "issues_scanned": 2212,
     "active_claims": 11,
     "queued_claims": 0,
     "issues_with_protocol_activity": 18,
@@ -40,7 +40,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 22,
+      "issues_scanned": 23,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
@@ -52,7 +52,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 94,
+      "issues_scanned": 90,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
@@ -80,7 +80,7 @@
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 65
+      "api_calls": 66
     },
     {
       "owner": "actualbudget",
@@ -92,7 +92,7 @@
       "issues_with_protocol": 2,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 62
+      "api_calls": 61
     },
     {
       "owner": "mealie-recipes",
@@ -104,7 +104,7 @@
       "issues_with_protocol": 2,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 41
+      "api_calls": 43
     },
     {
       "owner": "ghostfolio",
@@ -116,7 +116,7 @@
       "issues_with_protocol": 2,
       "active_claims": 2,
       "queued_claims": 0,
-      "api_calls": 24
+      "api_calls": 25
     },
     {
       "owner": "e2b-dev",
@@ -172,11 +172,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 29,
+      "issues_scanned": 47,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 23
+      "api_calls": 35
     },
     {
       "owner": "payloadcms",
@@ -184,11 +184,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 53,
+      "issues_scanned": 49,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 28
+      "api_calls": 24
     },
     {
       "owner": "usebruno",
@@ -196,11 +196,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 77,
+      "issues_scanned": 81,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 66
+      "api_calls": 69
     },
     {
       "owner": "dubinc",
@@ -244,11 +244,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 19,
+      "issues_scanned": 15,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 19
+      "api_calls": 16
     },
     {
       "owner": "modelcontextprotocol",
@@ -256,7 +256,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 7,
+      "issues_scanned": 8,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
@@ -280,11 +280,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 6,
+      "issues_scanned": 10,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 8
+      "api_calls": 11
     },
     {
       "owner": "tscircuit",
@@ -292,11 +292,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 17,
+      "issues_scanned": 20,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 12
+      "api_calls": 15
     },
     {
       "owner": "openclaw",
@@ -304,11 +304,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 47,
+      "issues_scanned": 42,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 50
+      "api_calls": 45
     },
     {
       "owner": "mastra-ai",
@@ -316,11 +316,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 61,
+      "issues_scanned": 66,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 64
+      "api_calls": 69
     },
     {
       "owner": "crewAIInc",
@@ -332,7 +332,7 @@
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 34
+      "api_calls": 37
     },
     {
       "owner": "shadcn-labs",
@@ -364,11 +364,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 69,
+      "issues_scanned": 71,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 53
+      "api_calls": 55
     },
     {
       "owner": "vercel",
@@ -380,7 +380,7 @@
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 22
+      "api_calls": 23
     },
     {
       "owner": "vitejs",
@@ -412,11 +412,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 80,
+      "issues_scanned": 79,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 60
+      "api_calls": 61
     },
     {
       "owner": "denoland",
@@ -424,7 +424,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 72,
+      "issues_scanned": 79,
       "issues_with_protocol": 2,
       "active_claims": 2,
       "queued_claims": 0,
@@ -448,11 +448,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 110,
+      "issues_scanned": 111,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 57
+      "api_calls": 52
     },
     {
       "owner": "facebook",
@@ -460,23 +460,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 65,
+      "issues_scanned": 64,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 41
-    },
-    {
-      "owner": "langchain-ai",
-      "repo": "deepagents",
-      "note": "friction-index seed",
-      "honored": false,
-      "policy_invalid": false,
-      "issues_scanned": 50,
-      "issues_with_protocol": 0,
-      "active_claims": 0,
-      "queued_claims": 0,
-      "api_calls": 45
+      "api_calls": 40
     },
     {
       "owner": "batrapulkit",
@@ -484,11 +472,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 13,
+      "issues_scanned": 10,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 11
+      "api_calls": 8
     },
     {
       "owner": "GustavoBaranda",
@@ -500,7 +488,7 @@
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 3
+      "api_calls": 4
     },
     {
       "owner": "modelcontextprotocol",
@@ -599,6 +587,11 @@
       "api_calls": 2
     }
   ],
-  "errors": [],
-  "api_calls": 1872
+  "errors": [
+    {
+      "repo": "langchain-ai/deepagents",
+      "error": "fetch failed"
+    }
+  ],
+  "api_calls": 1870
 }
