@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T15:09:52.125Z",
+  "generated_at": "2026-11-07T19:24:14.411Z",
   "indexer": "claim-ledger/0.1.0",
   "engine": "@reneturcios/greenlight@0.4.0",
   "freshness_target": "15 minutes for opted-in repos (Phase 2); current schedule: every 15 minutes",
@@ -12,7 +12,7 @@
   },
   "totals": {
     "repos_scanned": 48,
-    "issues_scanned": 2308,
+    "issues_scanned": 2340,
     "active_claims": 11,
     "queued_claims": 0,
     "issues_with_protocol_activity": 18,
@@ -28,11 +28,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 147,
+      "issues_scanned": 148,
       "issues_with_protocol": 1,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 97
+      "api_calls": 100
     },
     {
       "owner": "firecrawl",
@@ -52,11 +52,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 93,
+      "issues_scanned": 94,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 58
+      "api_calls": 59
     },
     {
       "owner": "n8n-io",
@@ -100,11 +100,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 45,
+      "issues_scanned": 44,
       "issues_with_protocol": 2,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 48
+      "api_calls": 46
     },
     {
       "owner": "ghostfolio",
@@ -136,11 +136,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 47,
+      "issues_scanned": 49,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 32
+      "api_calls": 33
     },
     {
       "owner": "convex",
@@ -184,11 +184,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 59,
+      "issues_scanned": 60,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 22
+      "api_calls": 23
     },
     {
       "owner": "usebruno",
@@ -272,7 +272,7 @@
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 114
+      "api_calls": 115
     },
     {
       "owner": "PostHog",
@@ -280,7 +280,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 8,
+      "issues_scanned": 9,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
@@ -304,18 +304,6 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 47,
-      "issues_with_protocol": 0,
-      "active_claims": 0,
-      "queued_claims": 0,
-      "api_calls": 50
-    },
-    {
-      "owner": "mastra-ai",
-      "repo": "mastra",
-      "note": "friction-index seed",
-      "honored": false,
-      "policy_invalid": false,
       "issues_scanned": 65,
       "issues_with_protocol": 0,
       "active_claims": 0,
@@ -323,16 +311,28 @@
       "api_calls": 68
     },
     {
+      "owner": "mastra-ai",
+      "repo": "mastra",
+      "note": "friction-index seed",
+      "honored": false,
+      "policy_invalid": false,
+      "issues_scanned": 64,
+      "issues_with_protocol": 0,
+      "active_claims": 0,
+      "queued_claims": 0,
+      "api_calls": 67
+    },
+    {
       "owner": "crewAIInc",
       "repo": "crewAI",
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 87,
+      "issues_scanned": 84,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 59
+      "api_calls": 56
     },
     {
       "owner": "shadcn-labs",
@@ -352,11 +352,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 18,
+      "issues_scanned": 20,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 15
+      "api_calls": 16
     },
     {
       "owner": "ollama",
@@ -364,11 +364,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 65,
+      "issues_scanned": 67,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 53
+      "api_calls": 55
     },
     {
       "owner": "vercel",
@@ -388,7 +388,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 63,
+      "issues_scanned": 64,
       "issues_with_protocol": 1,
       "active_claims": 1,
       "queued_claims": 0,
@@ -416,7 +416,7 @@
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 64
+      "api_calls": 63
     },
     {
       "owner": "denoland",
@@ -424,11 +424,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 75,
+      "issues_scanned": 80,
       "issues_with_protocol": 2,
       "active_claims": 2,
       "queued_claims": 0,
-      "api_calls": 36
+      "api_calls": 38
     },
     {
       "owner": "langchain-ai",
@@ -448,11 +448,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 127,
+      "issues_scanned": 130,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 76
+      "api_calls": 82
     },
     {
       "owner": "facebook",
@@ -464,7 +464,7 @@
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 37
+      "api_calls": 36
     },
     {
       "owner": "langchain-ai",
@@ -600,5 +600,5 @@
     }
   ],
   "errors": [],
-  "api_calls": 1939
+  "api_calls": 1967
 }
