@@ -1,17 +1,9 @@
 {
   "repo": "vitejs/vite",
-  "generated_at": "2026-11-16T21:04:38.133Z",
+  "generated_at": "2026-11-17T03:31:42.005Z",
   "honored": false,
   "policy_invalid": false,
-  "active_claim_count": 1,
+  "active_claim_count": 0,
   "queued_claim_count": 0,
-  "active_claims": [
-    {
-      "issue": 23807,
-      "issue_url": "https://github.com/vitejs/vite/issues/23807",
-      "claimant": "CloudCorpRecords",
-      "state": "linked",
-      "queue": []
-    }
-  ]
+  "active_claims": []
 }

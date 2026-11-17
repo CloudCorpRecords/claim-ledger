@@ -1,24 +1,9 @@
 {
   "repo": "denoland/deno",
-  "generated_at": "2026-11-16T21:05:10.084Z",
+  "generated_at": "2026-11-17T03:32:06.946Z",
   "honored": false,
   "policy_invalid": false,
-  "active_claim_count": 2,
+  "active_claim_count": 0,
   "queued_claim_count": 0,
-  "active_claims": [
-    {
-      "issue": 37022,
-      "issue_url": "https://github.com/denoland/deno/issues/37022",
-      "claimant": "CloudCorpRecords",
-      "state": "linked",
-      "queue": []
-    },
-    {
-      "issue": 37029,
-      "issue_url": "https://github.com/denoland/deno/issues/37029",
-      "claimant": "CloudCorpRecords",
-      "state": "linked",
-      "queue": []
-    }
-  ]
+  "active_claims": []
 }

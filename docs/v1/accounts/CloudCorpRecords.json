@@ -7,48 +7,8 @@
       "state": "linked"
     },
     {
-      "repo": "ghostfolio/ghostfolio",
-      "issue": 6168,
-      "state": "linked"
-    },
-    {
       "repo": "convex/convex-js",
       "issue": 194,
-      "state": "linked"
-    },
-    {
-      "repo": "convex/convex-js",
-      "issue": 196,
-      "state": "linked"
-    },
-    {
-      "repo": "convex/convex-js",
-      "issue": 184,
-      "state": "linked"
-    },
-    {
-      "repo": "convex/convex-js",
-      "issue": 200,
-      "state": "linked"
-    },
-    {
-      "repo": "convex/convex-js",
-      "issue": 199,
-      "state": "linked"
-    },
-    {
-      "repo": "vitejs/vite",
-      "issue": 23807,
-      "state": "linked"
-    },
-    {
-      "repo": "denoland/deno",
-      "issue": 37022,
-      "state": "linked"
-    },
-    {
-      "repo": "denoland/deno",
-      "issue": 37029,
       "state": "linked"
     },
     {
@@ -58,7 +18,6 @@
     }
   ],
   "queued_claims": [],
-  "total_active": 11,
-  "over_cap": true,
-  "_ledger_note": "This account holds more than 5 active claims across indexed repos; readers treat claims past the cap as soft (SPEC 3.4)."
+  "total_active": 3,
+  "over_cap": false
 }
