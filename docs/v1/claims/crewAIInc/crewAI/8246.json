@@ -2,29 +2,8 @@
   "v": 1,
   "repo": "crewAIInc/crewAI",
   "issue": 8246,
-  "generated_at": "2026-10-22T09:38:21.450Z",
-  "active": {
-    "position": 1,
-    "claimant": "CloudCorpRecords",
-    "claimedAt": "2026-10-17T19:07:52.000Z",
-    "commentId": 6239229885,
-    "commentUrl": "https://github.com/crewAIInc/crewAI/issues/8246#issuecomment-6239229885",
-    "plan": null,
-    "etaDays": 4,
-    "queueOk": null,
-    "state": "active",
-    "activatedAt": "2026-10-17T19:07:52.000Z",
-    "expiresAt": "2026-10-24T19:07:52.000Z",
-    "lastHeartbeatAt": "2026-10-17T19:07:52.000Z",
-    "linkedPr": null,
-    "history": [
-      {
-        "event": "claimed",
-        "at": "2026-10-17T19:07:52.000Z",
-        "by": "CloudCorpRecords"
-      }
-    ]
-  },
+  "generated_at": "2026-11-17T21:09:10.709Z",
+  "active": null,
   "queue": [],
   "claims": [
     {
@@ -36,16 +15,26 @@
       "plan": null,
       "etaDays": 4,
       "queueOk": null,
-      "state": "active",
+      "state": "expired",
       "activatedAt": "2026-10-17T19:07:52.000Z",
-      "expiresAt": "2026-10-24T19:07:52.000Z",
-      "lastHeartbeatAt": "2026-10-17T19:07:52.000Z",
+      "expiresAt": "2026-11-14T19:07:52.000Z",
+      "lastHeartbeatAt": "2026-11-17T14:40:37.000Z",
       "linkedPr": null,
       "history": [
         {
           "event": "claimed",
           "at": "2026-10-17T19:07:52.000Z",
           "by": "CloudCorpRecords"
+        },
+        {
+          "event": "heartbeat",
+          "at": "2026-11-17T14:40:37.000Z",
+          "by": "CloudCorpRecords"
+        },
+        {
+          "event": "expired",
+          "at": "2026-11-14T19:07:52.000Z",
+          "by": "protocol"
         }
       ]
     }
