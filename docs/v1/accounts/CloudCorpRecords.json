@@ -2,11 +2,6 @@
   "login": "CloudCorpRecords",
   "active_claims": [
     {
-      "repo": "ghostfolio/ghostfolio",
-      "issue": 8141,
-      "state": "linked"
-    },
-    {
       "repo": "convex/convex-js",
       "issue": 194,
       "state": "linked"
@@ -18,6 +13,6 @@
     }
   ],
   "queued_claims": [],
-  "total_active": 3,
+  "total_active": 2,
   "over_cap": false
 }

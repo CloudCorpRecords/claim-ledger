@@ -1,17 +1,9 @@
 {
   "repo": "ghostfolio/ghostfolio",
-  "generated_at": "2026-11-19T17:51:01.497Z",
+  "generated_at": "2026-11-20T00:03:03.751Z",
   "honored": false,
   "policy_invalid": false,
-  "active_claim_count": 1,
+  "active_claim_count": 0,
   "queued_claim_count": 0,
-  "active_claims": [
-    {
-      "issue": 8141,
-      "issue_url": "https://github.com/ghostfolio/ghostfolio/issues/8141",
-      "claimant": "CloudCorpRecords",
-      "state": "linked",
-      "queue": []
-    }
-  ]
+  "active_claims": []
 }
