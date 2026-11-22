@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:12:38.765Z",
+  "generated_at": "2026-11-22T18:29:40.569Z",
   "indexer": "claim-ledger/0.1.0",
   "engine": "@reneturcios/greenlight@0.4.0",
   "freshness_target": "15 minutes for opted-in repos (Phase 2); current schedule: every 15 minutes",
@@ -12,7 +12,7 @@
   },
   "totals": {
     "repos_scanned": 48,
-    "issues_scanned": 2264,
+    "issues_scanned": 2313,
     "active_claims": 2,
     "queued_claims": 0,
     "issues_with_protocol_activity": 5,
@@ -30,7 +30,7 @@
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 89
+      "api_calls": 90
     },
     {
       "owner": "firecrawl",
@@ -38,11 +38,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 23,
+      "issues_scanned": 22,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 7
+      "api_calls": 9
     },
     {
       "owner": "PrefectHQ",
@@ -50,11 +50,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 84,
+      "issues_scanned": 85,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 57
+      "api_calls": 59
     },
     {
       "owner": "n8n-io",
@@ -62,11 +62,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 29,
+      "issues_scanned": 30,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 32
+      "api_calls": 33
     },
     {
       "owner": "marimo-team",
@@ -74,7 +74,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 70,
+      "issues_scanned": 73,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
@@ -86,11 +86,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 43,
+      "issues_scanned": 39,
       "issues_with_protocol": 1,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 47
+      "api_calls": 45
     },
     {
       "owner": "mealie-recipes",
@@ -170,11 +170,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 44,
+      "issues_scanned": 43,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 36
+      "api_calls": 35
     },
     {
       "owner": "payloadcms",
@@ -182,11 +182,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 114,
+      "issues_scanned": 109,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 55
+      "api_calls": 53
     },
     {
       "owner": "usebruno",
@@ -206,11 +206,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 13,
+      "issues_scanned": 14,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 15
+      "api_calls": 16
     },
     {
       "owner": "formbricks",
@@ -230,11 +230,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 42,
+      "issues_scanned": 39,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 45
+      "api_calls": 42
     },
     {
       "owner": "modelcontextprotocol",
@@ -254,11 +254,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 16,
+      "issues_scanned": 17,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 13
+      "api_calls": 14
     },
     {
       "owner": "mem0ai",
@@ -270,7 +270,7 @@
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 111
+      "api_calls": 113
     },
     {
       "owner": "PostHog",
@@ -278,11 +278,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 10,
+      "issues_scanned": 12,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 12
+      "api_calls": 15
     },
     {
       "owner": "tscircuit",
@@ -302,11 +302,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 65,
+      "issues_scanned": 108,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 68
+      "api_calls": 111
     },
     {
       "owner": "mastra-ai",
@@ -314,11 +314,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 60,
+      "issues_scanned": 63,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 63
+      "api_calls": 66
     },
     {
       "owner": "crewAIInc",
@@ -326,11 +326,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 84,
+      "issues_scanned": 83,
       "issues_with_protocol": 1,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 75
+      "api_calls": 77
     },
     {
       "owner": "shadcn-labs",
@@ -350,11 +350,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 21,
+      "issues_scanned": 24,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 15
+      "api_calls": 17
     },
     {
       "owner": "ollama",
@@ -362,11 +362,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 70,
+      "issues_scanned": 72,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 57
+      "api_calls": 59
     },
     {
       "owner": "vercel",
@@ -374,11 +374,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 15,
+      "issues_scanned": 16,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 13
+      "api_calls": 14
     },
     {
       "owner": "vitejs",
@@ -386,11 +386,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 52,
+      "issues_scanned": 54,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 42
+      "api_calls": 43
     },
     {
       "owner": "tailwindlabs",
@@ -398,7 +398,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 11,
+      "issues_scanned": 10,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
@@ -410,7 +410,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 87,
+      "issues_scanned": 86,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
@@ -434,11 +434,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 133,
+      "issues_scanned": 134,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 130
+      "api_calls": 132
     },
     {
       "owner": "microsoft",
@@ -446,11 +446,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 113,
+      "issues_scanned": 112,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 50
+      "api_calls": 51
     },
     {
       "owner": "facebook",
@@ -458,11 +458,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 39,
+      "issues_scanned": 41,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 31
+      "api_calls": 32
     },
     {
       "owner": "langchain-ai",
@@ -474,7 +474,7 @@
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 47
+      "api_calls": 48
     },
     {
       "owner": "batrapulkit",
@@ -494,7 +494,7 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 10,
+      "issues_scanned": 11,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
@@ -506,11 +506,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 166,
+      "issues_scanned": 167,
       "issues_with_protocol": 0,
       "active_claims": 0,
       "queued_claims": 0,
-      "api_calls": 164
+      "api_calls": 165
     },
     {
       "owner": "triggerdotdev",
@@ -530,11 +530,11 @@
       "note": "friction-index seed",
       "honored": false,
       "policy_invalid": false,
-      "issues_scanned": 107,
+      "issues_scanned": 106,
       "issues_with_protocol": 1,
       "active_claims": 1,
       "queued_claims": 0,
-      "api_calls": 107
+      "api_calls": 106
     },
     {
       "owner": "actualbudget",
@@ -598,5 +598,5 @@
     }
   ],
   "errors": [],
-  "api_calls": 1842
+  "api_calls": 1906
 }
