@@ -5,14 +5,9 @@
       "repo": "convex/convex-js",
       "issue": 194,
       "state": "linked"
-    },
-    {
-      "repo": "modelcontextprotocol/typescript-sdk",
-      "issue": 3043,
-      "state": "linked"
     }
   ],
   "queued_claims": [],
-  "total_active": 2,
+  "total_active": 1,
   "over_cap": false
 }
